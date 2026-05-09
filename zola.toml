@@ -76,7 +76,7 @@ categories = [
 # presets by creating an "accent_presets.toml" file under the "./data/"
 # directory with custom preset names and colors. Use the one located in Ametrine
 # as a reference.
-accent_color = "green"
+accent_color = "blue"
 
 # Additional CSS styles; expects them to be in the "./static/" directory.
 
@@ -180,7 +180,7 @@ show_comments_qr = true
 # favicon          = favicon.png
 # apple_touch_icon = apple-touch-icon.png
 # card             = card.png
-favicon = "🙂"
+favicon = "favicon.png"
 apple_touch_icon = "favicon.png"
 card = true
 
