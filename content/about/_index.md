@@ -13,7 +13,7 @@ so basically i am 13 years old (**minor so know who u are speakin with**)
 i live in Istanbul, Turkey where we connect east to west (wow)
 
 ## hobbies
-i really like tech, specifically old tech and analog
+i really like tech, specifically old tech and analog like VHS, powerhogs (CRT's) and whatever the old analog times had
 
 i also like [Frutiger Aero](https://wikipedia.org/wiki/Frutiger_Aero)
 
