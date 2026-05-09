@@ -1,6 +1,6 @@
 +++
-title = "Blog"
-description = "Bro is not filled with content 😭😭🥀"
+title = "the daily bluntin"
+description = "bluntin 💀"
 sort_by = "date"
 template = "article_list.html"
 page_template = "article.html"
@@ -27,6 +27,8 @@ no_header = true
 ____0_____0__\|/__@@@@__@@@__________|_\|/__|___\|/__\|/___________|_|_
 {% end %}
 
-# Blog
+# the daily bluntin
 
-I love blogging, but blogging doesn't. Pretty sad, I know.
+welcome to te daily bluntin wher i blog
+
+yay
