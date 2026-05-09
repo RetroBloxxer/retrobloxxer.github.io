@@ -20,7 +20,9 @@ and here we are
 
 # huge ty to:
 [daudix](https://daudix.one) for Ametrine
+
 [anins1der](https://anins1der.com) for the general help and inspiration
+
 and to [Neocities](https://neocities.org) for my old site
 
 # linktree
