@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
+    <url>
+        <loc>https://retrobloxxer.github.io/</loc>
+    </url>
+    <url>
+        <loc>https://retrobloxxer.github.io/about/</loc>
+    </url>
+    <url>
+        <loc>https://retrobloxxer.github.io/blog/</loc>
+    </url>
+    <url>
+        <loc>https://retrobloxxer.github.io/blog/page/1/</loc>
+    </url>
+    <url>
+        <loc>https://retrobloxxer.github.io/blog/testing/</loc>
+        <lastmod>2026-05-08</lastmod>
+    </url>
+    <url>
+        <loc>https://retrobloxxer.github.io/categories/</loc>
+    </url>
+    <url>
+        <loc>https://retrobloxxer.github.io/demo/</loc>
+    </url>
+    <url>
+        <loc>https://retrobloxxer.github.io/tags/</loc>
+    </url>
+</urlset>
