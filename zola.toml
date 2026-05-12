@@ -197,6 +197,7 @@ icon = true
 links = [
   { url = "@/blog/_index.md", name = "blog", icon = "newspaper" },
   { url = "@/about/_index.md", name = "about me", icon = "user" },
+  { url = "@/linktree/index.md", name = "linktree", icon = "address-book" },
   { url = "https://retrobloxxer.neocities.org", name = "old website", icon = "arrow-u-up-right"  },
 ]
 
