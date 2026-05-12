@@ -205,7 +205,7 @@ links = [
 # Set to false to disable copyright text, or set to anything else to use it as
 # the copyright text (Markdown supported).
 # $YEAR will be replaced with current year.
-copyright = "© **RetroBloxxer**, $YEAR."
+copyright = "© **RetroBloxxer**, $YEAR, All Rights Reserved."
 
 # Whether to show "Powered by Zola and Ametrine", and a link to the source code
 show_powered_by = true
