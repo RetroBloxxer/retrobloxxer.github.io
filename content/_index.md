@@ -49,9 +49,3 @@ and here we are
 
 and to [Neocities](https://neocities.org) for my old site
 
-# linktree
-here is the linktree ig
-- [discord](https://dsc.gg/retrobloxxer)
-- [youtube](https://youtube.com/@TheRealRetroBloxxer)
-- [bandcamp](https://retrobloxxermusic.bandcamp.com)
-- [e-mail](mailto:retrobloxxer12@hotmail.com)
