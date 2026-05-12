@@ -33,6 +33,18 @@ welcome to my site where i site and i site.
 
 jokes aside, i like tinkering with tech.
 
+
+
+
+
+
+
+
+
+
+
+
+
 # welcome to my personal mindspace
 this is the really really minded space where i explain my stuff, i do stuff and idk pretty much
 
@@ -41,6 +53,9 @@ i got the mindspace idea from my old site because at the about me page, it says 
 so i thought: why not make that mindspace
 
 and here we are
+
+
+
 
 # huge ty to:
 [daudix](https://daudix.one) for Ametrine
