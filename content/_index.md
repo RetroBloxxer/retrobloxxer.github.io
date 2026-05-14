@@ -28,21 +28,13 @@ C:\Users\retrobloxxer>winfetch
 
 {% end %}
 
-# ey, im retrobloxxer
-welcome to my site where i site and i site.
+<div class="container-fill">
+  # ey, im retrobloxxer
+  
+  welcome to my site where i site and i site.
 
-jokes aside, i like tinkering with tech.
-
-
-
-
-
-
-
-
-
-
-
+  jokes aside, i like tinkering with tech.
+</div>
 
 
 # welcome to my personal mindspace
@@ -53,8 +45,6 @@ i got the mindspace idea from my old site because at the about me page, it says 
 so i thought: why not make that mindspace
 
 and here we are
-
-
 
 
 # huge ty to:
