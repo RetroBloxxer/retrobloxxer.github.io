@@ -28,14 +28,12 @@ C:\Users\retrobloxxer>winfetch
 
 {% end %}
 
+# ey, im retrobloxxer
 <div class="container-fill">
-  # ey, im retrobloxxer
-  
   welcome to my site where i site and i site.
 
   jokes aside, i like tinkering with tech.
 </div>
-
 
 # welcome to my personal mindspace
 this is the really really minded space where i explain my stuff, i do stuff and idk pretty much
