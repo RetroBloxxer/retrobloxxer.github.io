@@ -7,11 +7,12 @@ description = "fuck ts"
 # this blog entry, then it will get used automatically.
 # banner = "card.png"
 
+banner = "card.png"
 trigger = "terribl writing (first blog post so ofc)"
 +++
 
 # helo
-this blog post is ALL abt my shit with win98
+this blog post is ALL abt my shit with win98 quickinstall and the idiocrasy
 
 # beginninh
 i have a toshiba laptop & a REALLY old one (which is where im making the post rn)
