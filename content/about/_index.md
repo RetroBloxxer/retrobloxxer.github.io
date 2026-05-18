@@ -48,7 +48,7 @@ i have a really huge one, so get ready!
 - XBOX 360 (SOLD!)
 - PSP / PlayStation Portable (SOLD!)
 
-### computers and their specs (<span class="rainbow">expect new information on this section</span>
+### computers and their specs (<span class="rainbow">expect new information on this section</span>)
 #### Acer Aspire V3 (main)
 - CPU: Intel Core i7 4702MQ
 - RAM: 16GB DDR3
