@@ -1,3 +1,15 @@
++++
+title = "My Main PC Sucks"
+description = "even tho specs are good 💀"
+
+[extra]
+# If an image called "card.png" is found on root of
+# this blog entry, then it will get used automatically.
+# banner = "card.png"
+
++++
+
+
 # hi
 another blog post, this time its a slander
 
