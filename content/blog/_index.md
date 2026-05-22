@@ -19,3 +19,4 @@ this is totally an ASCII art!!!
 welcome to te daily bluntin wher i blog
 
 yay
+(btw RSS works, tested it using arkregator which is a RSS fetcher)
