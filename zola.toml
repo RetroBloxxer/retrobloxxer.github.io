@@ -206,7 +206,7 @@ links = [
 # Set to false to disable copyright text, or set to anything else to use it as
 # the copyright text (Markdown supported).
 # $YEAR will be replaced with current year.
-copyright = "© **RetroBloxxer**, $YEAR, All Rights Reserved."
+copyright = "© **RetroBloxxer**, $YEAR"
 
 # Whether to show "Powered by Zola and Ametrine", and a link to the source code
 show_powered_by = true
@@ -226,6 +226,8 @@ show_timestamp = true
 # - next     (required)
 # - random   (optional)
 # "$HOST" can be used to insert config.base_url with "https://" stripped away.
+
+note = "<small>All rights reserved; for licensing, [visit here.](/licensing)</small>"
 
 # [extra.fediverse]
 # Fediverse integration.
