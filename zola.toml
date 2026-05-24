@@ -101,9 +101,9 @@ styles = ["index.css"]
 # home_url = "@/home/index.md"
 
 # URL to website's source code.
-# source_url = "https://github.com/example/blog"
+# source_url = "https://github.com/RetroBloxxer/retrobloxxer.github.io"
 # ...and to it's bug tracker/issues page.
-# issues_url = "https://github.com/example/blog/issues/new"
+# issues_url = "https://github.com/RetroBloxxer/retrobloxxer.github.io/issues/new"
 
 # Whether to show estimated read time in posts.
 show_reading_time = true
