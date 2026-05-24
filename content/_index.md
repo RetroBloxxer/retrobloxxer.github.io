@@ -5,7 +5,7 @@ no_header = true
 +++
 
 {% crt() %}
-C:\Users\retrobloxxer>winfetch
+C:\Users\retrobloxxer> winfetch
 
                      ....,,:;+ccllll  retrobloxxer@DESKTOP-DNN1526
        ...,,+:;  cllllllllllllllllll  ---------------------
