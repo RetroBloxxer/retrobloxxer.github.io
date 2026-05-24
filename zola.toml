@@ -227,7 +227,7 @@ show_timestamp = true
 # - random   (optional)
 # "$HOST" can be used to insert config.base_url with "https://" stripped away.
 
-note = "<small>All rights reserved; for licensing, [visit here.](/licensing)</small>"
+note = "<small>all rights reserved; for licensing, [visit here.](/licensing)</small>"
 
 # [extra.fediverse]
 # Fediverse integration.
