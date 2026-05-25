@@ -4,7 +4,7 @@ description = "even tho specs are good 💀"
 authors = ["RetroBloxxer"]
 
 [taxonomies]
-tags = ["slander", "tech"]
+tags = ["tech"]
 categories = ["starred"]
 
 [extra]
