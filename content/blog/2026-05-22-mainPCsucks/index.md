@@ -1,6 +1,7 @@
 +++
 title = "My Main PC Sucks"
 description = "even tho specs are good 💀"
+authors = ["RetroBloxxer"]
 
 [extra]
 # If an image called "card.png" is found on root of
