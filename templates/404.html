@@ -7,18 +7,17 @@
 	<img class="pixels transparent no-hover" alt="Trollface in a trolley" {%- if config.markdown.lazy_async_image -%}decoding="async" loading="lazy"{%- endif -%} src="{{ get_url(path='favicon.png') }}">
 </picture>
 {% endblock picture %}
-
-	<h1>You lost your way</h1>
+	<h1>you lost your way</h1>
 			
-	<p>Ensure that the requested URL is correct and does not contain any typos.{% if
-	config.extra.issues_url %} If you feel that this behavior is unintended, please file an issue using the button
+	<p>ensure that the requested URL is correct and does not contain any typos.{% if
+	config.extra.issues_url %} if you feel that this behavior is unintended, please file an issue using the button
 	below.{% endif %}</p>
 
 	<div class="buttons centered big">
-		<button class="suggested" onclick=history.back()>Go Back</button>
-		<a class="" href="{% include 'partials/home_url.html' %}">Go Home</a>
+		<button class="suggested" onclick=history.back()>go back to where u were</button>
+		<a class="" href="{% include 'partials/home_url.html' %}">return home</a>
 		{%- if config.extra.issues_url %}
-		<a class="external" href="{{ config.extra.issues_url }}" rel="{{ rel_attributes }}">File an Issue</a>
+		<a class="external" href="{{ config.extra.issues_url }}" rel="{{ rel_attributes }}">snitch on</a>
 		{%- endif %}
 	</div>
 
