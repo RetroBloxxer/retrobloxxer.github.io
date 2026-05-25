@@ -1,4 +1,4 @@
-# The URL the site will be built for.
+	# The URL the site will be built for.
 # If you use CI pipelines, then set this to "/" if you don't want multilingual 
 # content support and don't mind $HOST variable (found below) literally becoming "/"
 # as setting your base URL to "/" let's you to build your website for any domain as
@@ -53,9 +53,9 @@ internal_level = "warn"
 # Color attribute accepts the same values as extra.accent_color, which can be
 # found below.
 categories = [
-  { name = "Archived", description = "Posts that have been archived due to their age.", color = "purple", icon = "box-arrow-down" },
-  { name = "Featured", description = "Posts that are somewhat decently written.", color = "yellow", icon = "star" },
-  { name = "Hot", description = "Posts that did numbers compared to others.", color = "red", icon = "fire" },
+  { name = "archived", description = "posts that have been archived due to their age.", color = "purple", icon = "box-arrow-down" },
+  { name = "starred", description = "posts that are somewhat decently written.", color = "yellow", icon = "star" },
+  { name = "hot 🔥", description = "posts that did numbers compared to others.", color = "red", icon = "fire" },
   { name = "Test", description = "Categories can be set and customized entirely from config, woo-hoo!", color = "green", icon = "feather" },
 ]
 
@@ -101,9 +101,9 @@ styles = ["index.css"]
 # home_url = "@/home/index.md"
 
 # URL to website's source code.
-# source_url = "https://github.com/example/blog"
+source_url = "https://github.com/RetroBloxxer/retrobloxxer.github.io"
 # ...and to it's bug tracker/issues page.
-# issues_url = "https://github.com/example/blog/issues/new"
+issues_url = "https://github.com/RetroBloxxer/retrobloxxer.github.io/issues/new"
 
 # Whether to show estimated read time in posts.
 show_reading_time = true
@@ -197,6 +197,8 @@ icon = true
 links = [
   { url = "@/blog/_index.md", name = "blog", icon = "newspaper" },
   { url = "@/about/_index.md", name = "about me", icon = "user" },
+  { url = "@/tech/index.md", name = "tech collection", icon = "laptop" },
+  { url = "@/linktree/index.md", name = "linktree", icon = "address-book" },
   { url = "https://retrobloxxer.neocities.org", name = "old website", icon = "arrow-u-up-right"  },
 ]
 
@@ -204,7 +206,7 @@ links = [
 # Set to false to disable copyright text, or set to anything else to use it as
 # the copyright text (Markdown supported).
 # $YEAR will be replaced with current year.
-copyright = "© **RetroBloxxer**, $YEAR."
+copyright = "© **RetroBloxxer**, $YEAR"
 
 # Whether to show "Powered by Zola and Ametrine", and a link to the source code
 show_powered_by = true
@@ -225,6 +227,15 @@ show_timestamp = true
 # - next     (required)
 # - random   (optional)
 # "$HOST" can be used to insert config.base_url with "https://" stripped away.
+<div>
+  <a href="https://snugnook.org/ring">Snug Ring</a>
+  <br />
+  <a href="https://snugnook.org/ring/retrobloxxer.github.io/previous">previous</a>
+  <a href="https://snugnook.org/ring/random">random</a>
+  <a href="https://snugnook.org/ring/retrobloxxer.github.io/next">next</a>
+</div>
+
+note = "<small>all rights reserved; for licensing, [visit here.](/licensing)</small>"
 
 [[extra.footer.webrings]]
 name = "Snug Ring"

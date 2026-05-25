@@ -5,7 +5,7 @@ no_header = true
 +++
 
 {% crt() %}
-C:\Users\retrobloxxer>winfetch
+C:\Users\retrobloxxer> winfetch
 
                      ....,,:;+ccllll  retrobloxxer@DESKTOP-DNN1526
        ...,,+:;  cllllllllllllllllll  ---------------------
@@ -29,9 +29,9 @@ C:\Users\retrobloxxer>winfetch
 {% end %}
 
 # ey, im retrobloxxer
-welcome to my site where i site and i site.
+welcome to my site where i site in the site.
 
-jokes aside, i like tinkering with tech.
+jokes aside, i like tinkering with tech
 
 # welcome to my personal mindspace
 this is the really really minded space where i explain my stuff, i do stuff and idk pretty much
@@ -42,6 +42,7 @@ so i thought: why not make that mindspace
 
 and here we are
 
+
 # huge ty to:
 [daudix](https://daudix.one) for Ametrine
 
@@ -49,9 +50,3 @@ and here we are
 
 and to [Neocities](https://neocities.org) for my old site
 
-# linktree
-here is the linktree ig
-- [discord](https://dsc.gg/retrobloxxer)
-- [youtube](https://youtube.com/@TheRealRetroBloxxer)
-- [bandcamp](https://retrobloxxermusic.bandcamp.com)
-- [e-mail](mailto:retrobloxxer12@hotmail.com)
