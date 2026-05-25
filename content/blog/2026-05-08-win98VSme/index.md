@@ -1,6 +1,7 @@
 +++
 title = "Me VS Win98 QuickInstall"
 description = "fuck ts"
+authors = ["RetroBloxxer"]
 
 [extra]
 # If an image called "card.png" is found on root of
