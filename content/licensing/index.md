@@ -29,5 +29,4 @@ you must:
 
 > [!IMPORTANT]
 > when emailing, you MUST say your follower count along with your reputation and your account details.
-
 > if non-existent or you lied, you will be rejected AUTOMATICALLY.
