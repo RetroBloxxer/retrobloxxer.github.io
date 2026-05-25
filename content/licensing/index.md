@@ -12,6 +12,7 @@ this page shows the requirements for licensing in courtesy of my content.
 the readme on the github is a joke, you can use the github code to modify the site to your liking and you agree to NOT impersonate me in any way.
 
 ## content licensing 
+
 [!CAUTION]
 reuploading is NOT allowed in any way due to copyright.
 
