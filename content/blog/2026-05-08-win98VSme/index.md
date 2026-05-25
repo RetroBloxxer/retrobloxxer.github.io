@@ -3,6 +3,9 @@ title = "Me VS Win98 QuickInstall"
 description = "fuck ts"
 authors = ["RetroBloxxer"]
 
+[taxonomies]
+tags = ["tech"]
+
 [extra]
 # If an image called "card.png" is found on root of
 # this blog entry, then it will get used automatically.
