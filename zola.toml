@@ -227,13 +227,6 @@ show_timestamp = true
 # - next     (required)
 # - random   (optional)
 # "$HOST" can be used to insert config.base_url with "https://" stripped away.
-<div>
-  <a href="https://snugnook.org/ring">Snug Ring</a>
-  <br />
-  <a href="https://snugnook.org/ring/retrobloxxer.github.io/previous">previous</a>
-  <a href="https://snugnook.org/ring/random">random</a>
-  <a href="https://snugnook.org/ring/retrobloxxer.github.io/next">next</a>
-</div>
 
 note = "<small>all rights reserved; for licensing, [visit here.](/licensing)</small>"
 
