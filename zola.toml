@@ -1,4 +1,4 @@
-# The URL the site will be built for.
+	# The URL the site will be built for.
 # If you use CI pipelines, then set this to "/" if you don't want multilingual 
 # content support and don't mind $HOST variable (found below) literally becoming "/"
 # as setting your base URL to "/" let's you to build your website for any domain as
@@ -226,6 +226,13 @@ show_timestamp = true
 # - next     (required)
 # - random   (optional)
 # "$HOST" can be used to insert config.base_url with "https://" stripped away.
+<div>
+  <a href="https://snugnook.org/ring">Snug Ring</a>
+  <br />
+  <a href="https://snugnook.org/ring/retrobloxxer.github.io/previous">previous</a>
+  <a href="https://snugnook.org/ring/random">random</a>
+  <a href="https://snugnook.org/ring/retrobloxxer.github.io/next">next</a>
+</div>
 
 note = "<small>all rights reserved; for licensing, [visit here.](/licensing)</small>"
 
