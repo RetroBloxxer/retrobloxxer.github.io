@@ -3,6 +3,9 @@ title = "My Main PC Sucks"
 description = "even tho specs are good 💀"
 authors = ["RetroBloxxer"]
 
+[taxonomies]
+tags = ["slander", "tech"]
+
 [extra]
 # If an image called "card.png" is found on root of
 # this blog entry, then it will get used automatically.
