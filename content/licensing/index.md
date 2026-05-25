@@ -12,7 +12,10 @@ this page shows the requirements for licensing in courtesy of my content.
 the readme on the github is a joke, you can use the github code to modify the site to your liking and you agree to NOT impersonate me in any way.
 
 ## content licensing 
-reuploading is NOT allowed in any way due to copyright unless permission from me is given.
+[!CAUTION]
+reuploading is NOT allowed in any way due to copyright.
+
+if you want to reupload my content, you need permission for it.
 
 to obtain required permission, you MUST contact me thru my email agreeing to keep credit to me at all times and you MUST NOT hallucinate viewers into thinking we created said content together; though if we have, you will have the required license along with a YouTube collaboration link if content is being uploaded to YouTube.
 
