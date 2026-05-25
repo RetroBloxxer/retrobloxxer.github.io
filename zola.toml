@@ -219,6 +219,7 @@ show_timestamp = true
 # Any icon name from https://simpleicons.org can be used.
 # socials = [{ url = "https://snugnook.org", icon = "pipecat" },]
 
+
 # List of webrings. Allowed fields:
 # - name     (required)
 # - url      (required)
@@ -226,15 +227,15 @@ show_timestamp = true
 # - next     (required)
 # - random   (optional)
 # "$HOST" can be used to insert config.base_url with "https://" stripped away.
-<div>
-  <a href="https://snugnook.org/ring">Snug Ring</a>
-  <br />
-  <a href="https://snugnook.org/ring/retrobloxxer.github.io/previous">previous</a>
-  <a href="https://snugnook.org/ring/random">random</a>
-  <a href="https://snugnook.org/ring/retrobloxxer.github.io/next">next</a>
-</div>
 
 note = "<small>all rights reserved; for licensing, [visit here.](/licensing)</small>"
+
+[[extra.footer.webrings]]
+name = "Snug Ring"
+url = "https://snugnook.org/ring"
+previous = "https://snugnook.org/ring/$HOST/previous"
+next = "https://snugnook.org/ring/$HOST/next"
+random = "https://snugnook.org/ring/random"
 
 # [extra.fediverse]
 # Fediverse integration.
