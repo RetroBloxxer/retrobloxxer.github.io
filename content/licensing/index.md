@@ -13,8 +13,8 @@ the readme on the github is a joke, you can use the github code to modify the si
 
 ## content licensing 
 
-[!CAUTION]
-reuploading is NOT allowed in any way due to copyright.
+> [!CAUTION]
+> reuploading is NOT allowed in any way due to copyright.
 
 if you want to reupload my content, you need permission for it.
 
