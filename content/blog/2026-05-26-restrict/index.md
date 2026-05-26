@@ -5,7 +5,6 @@ authors = ["RetroBloxxer"]
 
 [taxonomies]
 tags = ["misc"]
-categories = ["starred"]
 
 [extra]
 accent_color = "hsl(0, 57%, 43%)"
