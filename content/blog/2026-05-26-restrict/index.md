@@ -35,7 +35,7 @@ yep, i already wrote a doc about this but whatever
 
 social media is getting banned. why? BECAUSE OF FUCKING POWER INTOX- cHiLd SaFeTy of course 
 
-yeah, child safety. amazing. (sarcasm)
+yeah, child safety. amazing. (sarcasm induced)
 
 ## age checks 
 parents love it, the government loves it, everyone loves it.
