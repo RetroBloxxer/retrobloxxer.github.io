@@ -23,7 +23,7 @@ trigger = """
 > this post is inspired by anins1der 
 
 # prologue 
-welcome back to the "daily" yappatron podcast where we yap about shit
+welcome back to the "government loves acting ass" podcast where we discuss about the idiocracy of the turkish government 
 
 so, there's a man. Recep Tayyip Erdoğan. and this dude wanted to save the kids.
 
@@ -67,7 +67,7 @@ but will it even be possible anymore?
 we pulled off a fucking Russia and banned VPNs if they don't have a license 
 
 # the problem?
-the government is scared for us having free internet because freedom = unallocated info
+the government is scared for us having free internet because freedom = unallocated infoe
 
 and what happens when we lose our freedom? information can be obtained (for some fuckin reason)
 
@@ -78,8 +78,8 @@ WHICH MEANS WE HAVE TO WORK MORE
 WHICH MEANS NO MORE <abbr title="the act of viewing short form content nonstop">DOOMSCROLL</abbr> 
 
 # epilogue 
-the government loves blocking what we have bc the government is a fuckin pile of shit
+the government loves blocking what we have bc the government is a fuckin pile of bullshit
 
-and the media uses <abbr title="this shit">ts</abbr> as a marketing tactic
+and the media uses <abbr title="this shit">ts</abbr> as a marketing tactic to make parents worry abt their kids when in fact 90% the problem is the kid's psychology 
 
 well, guess this sucks (and i hope i don't find myself in Silivri Prison bc Erdoğan)
