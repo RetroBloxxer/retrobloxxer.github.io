@@ -4,6 +4,7 @@ description = "yeah you didn't have phones back then but you had freedom. NOW WE
 authors = ["RetroBloxxer"]
 
 [taxonomies]
+tags = ["misc"]
 categories = ["starred"]
 
 [extra]
