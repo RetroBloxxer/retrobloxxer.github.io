@@ -29,7 +29,7 @@ so, there's a man. Recep Tayyip Erdoğan. and this dude wanted to save the kids.
 
 and then, he did something that would ruin us.
 
-RESTRICTIONS.
+RESTRICTIONS. THE ONE THING EVERYONE FEARS.
 
 # social media
 yep, i already wrote a doc about this but whatever 
@@ -38,10 +38,10 @@ social media is getting banned. why? BECAUSE OF FUCKING POWER INTOX- AHEMAHEM cH
 
 yeah, child safety. amazing. fuckin amazing. (sarcasm induced)
 
-WHEN IN FACT, YOU COULD'VE GET THE KIDS STARTING THE SCHOOL SHOOTINGS ARRESTED USING DISCORD 
+WHEN IN FACT, YOU COULD'VE GET THE KIDS STARTING THE SCHOOL SHOOTINGS ARRESTED USING DISCORD (the kids doing this told that they were gonna do this on discord)
 
 ## age checks 
-parents love it, the government loves it, everyone loves it.
+parents love it, the government loves it, everyone loves it, it's a "security" implementation.
 
 it's the shitass tech that detects your age using AI (WHY?!) with the help of ur personal data (looking at you Roblox.)
 
