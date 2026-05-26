@@ -1,7 +1,7 @@
 +++
 title = "licensing"
 [extra]
-accent_color = "orange"
+accent_color = "hsl(26, 100%, 41%)"
 no_header = true
 
 +++
