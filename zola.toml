@@ -76,7 +76,7 @@ categories = [
 # presets by creating an "accent_presets.toml" file under the "./data/"
 # directory with custom preset names and colors. Use the one located in Ametrine
 # as a reference.
-accent_color = "blue"
+accent_color = "hsl(205, 71%, 48%)"
 
 # Additional CSS styles; expects them to be in the "./static/" directory.
 
