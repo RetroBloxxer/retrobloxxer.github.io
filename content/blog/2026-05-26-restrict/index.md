@@ -1,7 +1,7 @@
 +++
 title = "Restrictions"
 description = "yeah you didn't have phones back then but you had freedom. NOW WE ARE LOSING OURS DUE TO THE TYRANT OPERATING THIS QUOTE-ON-QUOTE COUNTRY"
-author = ["RetroBloxxer"]
+authors = ["RetroBloxxer"]
 
 [taxonomies]
 categories = ["starred"]
