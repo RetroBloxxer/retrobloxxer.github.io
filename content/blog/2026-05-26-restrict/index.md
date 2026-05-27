@@ -20,12 +20,13 @@ trigger = """
 +++
 
 > [!NOTE]
-> this post is inspired by anins1der 
+> this post is inspired by [_anins1der_](https://anins1der.com/blog/restrictions),
+ 
 
 # prologue 
 welcome back to the "government loves acting ass" podcast where we discuss about the idiocracy of the turkish government 
 
-so, there's a man. Recep Tayyip Erdoğan. and this dude wanted to save the kids.
+anyway; there's a man. Recep Tayyip Erdoğan. and this dude wanted to save the kids.
 
 and then, he did something that would ruin us.
 
@@ -83,3 +84,5 @@ the government loves blocking what we have bc the government is a fuckin pile of
 and the media uses <abbr title="this shit">ts</abbr> as a marketing tactic to make parents worry abt their kids when in fact 90% the problem is the kid's psychology 
 
 well, guess this sucks (and i hope i don't find myself in Silivri Prison bc Erdoğan)
+
+(and remember KOSA exists)
