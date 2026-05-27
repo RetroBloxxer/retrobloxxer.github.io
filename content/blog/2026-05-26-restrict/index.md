@@ -26,9 +26,11 @@ trigger = """
 # prologue 
 welcome back to the "government loves acting ass" podcast where we discuss about the idiocracy of the turkish government 
 
-anyway; there's a man. Recep Tayyip Erdoğan. and this dude wanted to save the kids.
+anyway, during the time of our lives, a man appeared by the name of Recep Tayyip Erdoğan.
 
-and then, he did something that would ruin us.
+this dude noticed what is happening and wanted to save children.
+
+and then, he brought...
 
 RESTRICTIONS. THE ONE THING EVERYONE FEARS.
 
@@ -39,7 +41,7 @@ social media is getting banned. why? BECAUSE OF FUCKING POWER INTOX- AHEMAHEM cH
 
 yeah, child safety. amazing. fuckin amazing. (sarcasm induced)
 
-WHEN IN FACT, YOU COULD'VE GET THE KIDS STARTING THE SCHOOL SHOOTINGS ARRESTED USING DISCORD (the kids doing this told that they were gonna do this on discord)
+it's child safety WHEN IN FACT, YOU COULD'VE GET THE KIDS STARTING THE SCHOOL SHOOTINGS ARRESTED USING DISCORD (the kids doing this told that they were gonna do this on discord)
 
 ## age checks 
 parents love it, the government loves it, everyone loves it, it's a "security" implementation.
@@ -49,7 +51,7 @@ it's the shitass tech that detects your age using AI (WHY?!) with the help of ur
 why even personal data? no fuckin idea
 
 ### does it even work?
-no, it doesn't even think once.
+no, it doesn't even think before it acts.
 
 example: you are 21 and the AI flags u as 9
 
@@ -58,14 +60,14 @@ it's useless as bullshit
 # games 
 we literally <abbr title="the act of being different than everyone else; for example, you go left on a road but everyone goes right">LEFTED</abbr> all of the world bc "we need a representative for games passing 100k concurrent players"
 
-well is there any consequences? yeah, a FUCKING million turkish lira fine ORRRR bandwidth narrowing (making the platform useless basically)
+well is there any consequences? yeah, a FUCKING million turkish lira fine ORRRR <abbr title="lowering the internet speed to something using DNS or IP">bandwidth narrowing</abbr> which is ABSOLUTELY OVERKILL
 
 # VPNs
-here's the thing. we used VPNs to bypass all of this 
+remember though, we still had hope. we used to use VPNs to bypass bans and bandwidth narrowing (bc bandwidth narrowing is a DNS or IP restriction)
 
 but will it even be possible anymore?
 
-we pulled off a fucking Russia and banned VPNs if they don't have a license 
+we generally just pulled off a fucking Russia and banned VPNs if they don't have a license (WHAT LICENSE??)
 
 # the problem?
 the government is scared for us having free internet because freedom = unallocated infoe
@@ -76,8 +78,6 @@ and controlled internet means kids go in labor (studying)
 
 WHICH MEANS WE HAVE TO WORK MORE
 
-WHICH MEANS NO MORE <abbr title="the act of viewing short form content nonstop">DOOMSCROLL</abbr> 
-
 # epilogue 
 the government loves blocking what we have bc the government is a fuckin pile of bullshit
 
@@ -85,4 +85,4 @@ and the media uses <abbr title="this shit">ts</abbr> as a marketing tactic to ma
 
 well, guess this sucks (and i hope i don't find myself in Silivri Prison bc Erdoğan)
 
-(and remember KOSA exists)
+<small>and i hope the government remembers what it is</small>
