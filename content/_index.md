@@ -52,5 +52,5 @@ and here we are
 
 and..
 
-- Snug Nook (everyone is cool and i can finally let my shit out)
+- [Snug Nook](https://snugnook.org) (everyone is cool and i can finally let my shit out)
 
