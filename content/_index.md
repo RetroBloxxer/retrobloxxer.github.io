@@ -44,9 +44,13 @@ and here we are
 
 
 # huge ty to:
-[daudix](https://daudix.one) for Ametrine
+- [daudix](https://daudix.one) for Ametrine (seriously he's a cool person)
 
-[anins1der](https://anins1der.com) for the general help and inspiration
+- [anins1der](https://anins1der.com) for the general help and inspiration
 
-and to [Neocities](https://neocities.org) for my old site
+- [Neocities](https://neocities.org) for my old site
+
+and..
+
+- Snug Nook (everyone is cool and i can finally let my shit out)
 
