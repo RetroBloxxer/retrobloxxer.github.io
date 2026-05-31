@@ -100,5 +100,3 @@ BUT we were ALMOST late for handing our luggage bc traffic (along with the Mutta
 we still did
 
 and after a hour of flying and 2 hours of riding on train we arrived at home using a taxi
-
-<small>i literally feel weird rn i should go to sleep byeeeee</small>
