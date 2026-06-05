@@ -86,7 +86,7 @@ accent_color = "hsl(205, 71%, 48%)"
 # e.g "/sass/index.sass" and it's components will compile to a singular file at "/public/index.css".
 
 
-styles = ["index.css", "background.css"]
+styles = ["index.css"]
 
 # Additional JavaScript scripts; expects them to be in the "./static/"
 # directory.
