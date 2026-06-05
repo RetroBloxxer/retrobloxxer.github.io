@@ -5,8 +5,6 @@ disclaimer = "THIS PAGE CONTAINS WAY TOO INAPPROPIATE CONTENT; IF YOU ARE SENSET
 no_header = true
 +++
 
-(filler text)
-
 # before we start,
 im jus going to introduce you to <mark>The Cast</mark> (which is basically the ENTIRE roster of people related to this catasthrope)
 - Me (RetroBloxxer)
