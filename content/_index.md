@@ -1,7 +1,6 @@
 +++
 title = "RetroBloxxer"
 [extra]
-styles = ["background.css"]
 no_header = true
 +++
 
