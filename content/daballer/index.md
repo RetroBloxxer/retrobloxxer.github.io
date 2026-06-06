@@ -1,7 +1,7 @@
 +++
 title = "Daballer.."
+description = "Daballer.. an absolute menace."
 [extra]
-disclaimer = "THIS PAGE CONTAINS WAY TOO INAPPROPIATE CONTENT; IF YOU ARE SENSETIVE TO SUCH, I RECOMMEND YOU STEPPING AWAY FROM THIS PAGE; VIEWER DISCRETION IS ADVISED."
 no_header = true
 +++
 
@@ -12,6 +12,9 @@ im jus going to introduce you to <mark>The Cast</mark> (which is basically the E
 - Fisher (joined later)
 - Partyman
 - everyone else who was friends with daballer
+
+> [!CAUTION]
+> THIS PAGE CONTAINS SENSETIVE CONTENT, VIEWER DISCRETION IS ADVISED.
 
 # the beginning
 so, one day, we met a kid called Daballer. he was a pretty good friend and yeah we soon added eachother
@@ -37,8 +40,6 @@ as you know Daballer was a MENACE during our friendship and unfriending was losi
 but lets just say.. he had some <mark>ROBLOX CEO</mark> behaviour
 
 # what do you mean by that?
-> [!CAUTION]
-> this header is the START of sensetive content, please read the disclaimer
 
 so we soon learnt that THIS MF <span class="spoiler solid">R###D</span> A 10 YEAR OLD
 
