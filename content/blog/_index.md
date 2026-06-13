@@ -11,12 +11,14 @@ no_header = true
 +++
 
 {% crt() %}
-this is totally an ASCII art!!!
+retro$life: fdisk /dev/brain
+
+thoughts go here.
+it doesnt matter if it makes sense at all.
+
+[#####.....] 50½
 {% end %}
 
-# the daily bluntin
+welcome to the daily bluntin
 
-welcome to te daily bluntin wher i blog
-
-yay
-(btw RSS works, tested it using arkregator which is a RSS fetcher)
+listen to a 13 year old ramble about tech, government apolexy, life and it's cruelty or whatever content it matters to be a post
