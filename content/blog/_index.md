@@ -19,6 +19,7 @@ it doesnt matter if it makes sense at all.
 [#####.....] 50½
 {% end %}
 
+<h1 class="title">the daily bluntin</h1>
 welcome to the daily bluntin
 
 listen to a 13 year old ramble about tech, government apolexy, life and it's cruelty or whatever content it matters to be a post
