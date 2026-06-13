@@ -16,7 +16,7 @@ retro$life: fdisk /dev/brain
 thoughts go here.
 it doesnt matter if it makes sense at all.
 
-[#####.....] 50½
+[#####.....] 50%
 {% end %}
 
 <h1 class="title">the daily bluntin</h1>
