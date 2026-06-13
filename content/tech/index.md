@@ -28,6 +28,7 @@ i have a really huge one, so get ready!
 
 ## phones and tablets
 - Samsung Galaxy S3
+- Samsung Galaxy S4 Mini
 - Samsung Galaxy Note 5 (GIVEN AWAY!)
 - Samsung Galaxy Note 5 #2 (DISASSEMBLED, BROKEN!)
 - Samsung Galaxy J5 2016
