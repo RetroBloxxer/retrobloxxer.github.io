@@ -14,6 +14,12 @@ accent_color = "hsl(122, 100%, 50%)"
 
 disclaimer = "HUGE emotional static"
 
+[extra.weather]
+audio_button = true
+toc = true
+temp = "22"
+icon = "sun"
+style = "cloudy"
 +++
 
 do you ever get the feeling that this world is just.. cruel?
