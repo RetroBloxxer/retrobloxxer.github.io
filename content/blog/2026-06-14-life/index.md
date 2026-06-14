@@ -62,3 +62,5 @@ i already created sense anyways.
 it simply doesnt matter.
 
 this is a world where nothing can be decided by you, even if your rights are secured by laws.
+
+<small>at LEAST we have insane graphics</small>
