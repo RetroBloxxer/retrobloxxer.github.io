@@ -20,6 +20,7 @@ toc = true
 temp = "22"
 icon = "sun"
 style = "cloudy"
+condition = ""
 +++
 
 do you ever get the feeling that this world is just.. cruel?
