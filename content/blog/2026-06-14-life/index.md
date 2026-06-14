@@ -10,7 +10,7 @@ tags = ["misc"]
 accent_color = "hsl(122, 100%, 50%)"
 # If an image called "card.png" is found on root of
 # this blog entry, then it will get used automatically.
-# banner = "card.png"
+banner = "card.jpg"
 
 disclaimer = "HUGE emotional static"
 
