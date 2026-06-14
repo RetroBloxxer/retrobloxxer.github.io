@@ -7,7 +7,7 @@ authors = ["RetroBloxxer"]
 tags = ["misc"]
 
 [extra]
-accent_color = "hsl(124, 73%, 96%)"
+accent_color = "hsl(122, 100%, 50%)"
 # If an image called "card.png" is found on root of
 # this blog entry, then it will get used automatically.
 # banner = "card.png"
