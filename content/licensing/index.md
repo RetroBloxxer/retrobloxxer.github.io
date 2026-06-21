@@ -1,5 +1,6 @@
 +++
 title = "licensing"
+description = "guidelines for my content and stuff"
 [extra]
 accent_color = "orange"
 no_header = true
