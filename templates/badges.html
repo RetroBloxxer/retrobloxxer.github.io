@@ -3,7 +3,6 @@
 
 {% block content %}
 {% set badges = page.extra.badges %}
-{% set stamps = page.extra.stamps %}
 
 {{- "# " ~ page.title | markdown | safe -}}
 
@@ -46,7 +45,7 @@
 <p>hell yeah, thats me!</p>
 
 <ul class="badges">
-  <strong class="title">My Badges/88x31s</strong>
+  <strong class="title">myself in badges/88x31s</strong>
   {%- for badge in badges.me -%}
     <li>
       {%- if badge.url -%}
@@ -68,40 +67,6 @@
           {% endif %}
         />
       {%- if badge.url -%}
-        </a>
-      {%- endif -%}
-    </li>
-  {%- endfor -%}
-  {{- macros::icon(name="scissors") -}}
-</ul>
-
-<h2>Stamps</h2>
-
-<p>Technically not badges, but they’re cute too and I don’t know where to put them.</p>
-
-<ul class="stamps">
-  <strong class="title">DeviantArt Stamps</strong>
-  {%- for stamp in stamps.misc -%}
-    <li>
-      {%- if stamp.url -%}
-        <a href="{{ stamp.url }}">
-      {%- endif -%}
-        <img
-          width="99" height="56"
-          class="pixels transparent no-hover"
-          {% if stamp.alt %}
-            {%- set stamp_alt = stamp.alt %}
-          {% else %}
-            {%- set stamp_alt = stamp.name | split(pat=".", limit=2) | first %}
-          {% endif %}
-          alt="{{ stamp_alt }}"
-          {% set stamp_url = "badges/stamps/" ~ stamp.name %}
-          src="{{ get_url(path=stamp_url, cachebust=true) }}"
-          {% if config.markdown.lazy_async_image %}
-            decoding="async" loading="lazy"
-          {% endif %}
-        />
-      {%- if stamp.url -%}
         </a>
       {%- endif -%}
     </li>
