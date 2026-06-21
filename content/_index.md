@@ -42,15 +42,5 @@ so i thought: why not make that mindspace
 
 and here we are
 
-
-# huge ty to:
-- [daudix](https://daudix.one) for Ametrine (seriously he's a cool person)
-
-- [anins1der](https://anins1der.com) for the general help and inspiration
-
-- [Neocities](https://neocities.org) for my old site
-
-and..
-
-- [Snug Nook](https://snugnook.org) (everyone is cool and i can finally let my shit out)
+<small>psst, wanna view my badges? you can view them [here](https://retrobloxxer.github.io/badges)</small>
 
