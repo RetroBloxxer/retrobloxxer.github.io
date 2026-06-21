@@ -1,8 +1,6 @@
 +++
 title = "about me"
-description = "about me aaaaaaaa"
-
-
+description = "yeah yeah about me its IN THE FUCKING TITLE-"
 [extra]
 no_header = true
 +++
