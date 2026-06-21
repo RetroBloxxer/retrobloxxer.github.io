@@ -27,6 +27,7 @@ this website is currently hosted on github pages but i want to buy an ACTUAL dom
 # to-do list
 <details>
   <summary>uhh yeah in this thing is my to-do</summary>
+  
   - [ ] actively maintain this site
   - [ ] make MORE 88x31's
   - [ ] draw
@@ -37,6 +38,7 @@ this website is currently hosted on github pages but i want to buy an ACTUAL dom
   - [ ] add sveltia CMS
   - [ ] get a new PC that performs way better
   - [ ] buy a domain
+
 </details>
 
 
