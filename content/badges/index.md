@@ -1,6 +1,6 @@
 +++
 title = "markings"
-description = "my mark on the indieweb"
+description = "my mark on the indieweb!"
 template = "badges.html"
 [extra]
 styles = ["badges/style.css"]
