@@ -1,7 +1,6 @@
 @use "../../themes/ametrine/sass/abstracts/functions" as *;
 
-.badges,
-.stamps {
+.badges {
   display: flex;
   position: relative;
   flex-wrap: wrap;
