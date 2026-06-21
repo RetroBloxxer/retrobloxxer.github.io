@@ -4,6 +4,7 @@ description = "my mark on the indieweb!"
 template = "badges.html"
 [extra]
 styles = ["badges/style.css"]
+accent_color = "hsl(134°, 82%, 56%)"
 [extra.badges]
 personal = [
   { name = "daudix.gif", url = "https://daudix.one" },
