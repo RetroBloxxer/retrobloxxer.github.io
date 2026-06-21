@@ -195,14 +195,13 @@ icon = true
 # letters of the link name will be used instead.
 # Any icon name from https://phosphoricons.com can be used.
 links = [
-
 { url = "@/blog/_index.md", name = "blog", icon = "newspaper" },
 { url = "@/about/_index.md", name = "about me", icon = "user" },
 { url = "@/tech/index.md", name = "tech collection", icon = "laptop" },
 { url = "@/linktree/index.md", name = "linktree", icon = "address-book" },
 { url = "@/colophon/index.md", name = "colophon", icon = "question-mark" },
 { url = "https://retrobloxxer.neocities.org", name = "old website", icon = "arrow-u-up-right"  },
-
+]
 
 [extra.footer]
 # Set to false to disable copyright text, or set to anything else to use it as
