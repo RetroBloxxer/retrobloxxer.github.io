@@ -9,6 +9,7 @@ accent_color = "hsl(136, 54%, 43%)"
 personal = [
   { name = "daudix.gif", url = "https://daudix.one" },
   { name = "mambuco.gif", url = "https://mambuco.dev" },
+  { name = "anins1der.gif", url = "https://anins1der.com" },
 ]
 
 me = [
