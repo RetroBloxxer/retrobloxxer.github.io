@@ -1,21 +1,21 @@
 +++
 title = "linktree"
+description = "where im existing at.."
 [extra]
 no_header = true
 +++
 
 # linktree
-want to reach out or wanna follow my other platforms? 
+do you want to know where i exist at?
 
-this page is the perfect option!
+this is the perfect page
 
-you can follow / reach out at:
+i exist at:
 
 - [youtube](https://youtube.com/@TheRealRetroBloxxer)
 - [discord](https://dsc.gg/retrobloxxer)
 - [bandcamp](https://retrobloxxermusic.bandcamp.com)
+- [github](https://github.com/RetroBloxxer)
 
 ## feeling old-school?
-i can be your old-school friend!
-
-- [e-mail](mailto:retrobloxxer12@hotmail.com)
+me too. contact me thru my [e-mail](mailto:retrobloxxer12@hotmail.com)
