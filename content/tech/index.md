@@ -1,5 +1,6 @@
 +++
 title = "tech collection"
+description = "oh yeah no shit i like tech ofc"
 [extra]
 no_header = true
 +++
