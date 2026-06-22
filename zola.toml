@@ -5,7 +5,7 @@
 # opposed to hardcoding it to your's which can cause styling issues wehn you change your domain
 base_url = "https://retrobloxxer.github.io"
 title = "RetroBloxxer"   # Appears in your browser's tab title and home page
-description = "hi ig"   # Appears in your site's home page
+description = "view a 13 year old's site :D"   # Appears in your site's home page
 
 theme = "ametrine"
 author = "RetroBloxxer"  # Change it to your online handle (or your name if you're OK with it lol)
