@@ -3,7 +3,7 @@ title = "colophon"
 description = "does this ring you a bell? of course not."
 +++
 
-{% alert(icon="trash-simple", title="boring page") %}
+{% alert(icon="trash-simple", title="boring page"), color="hsl(136, 0%, 62%)" %}
 this page is boring, let that sink in..
 {% end %}
 
