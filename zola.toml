@@ -1,4 +1,4 @@
-	# The URL the site will be built for.
+# The URL the site will be built for.
 # If you use CI pipelines, then set this to "/" if you don't want multilingual 
 # content support and don't mind $HOST variable (found below) literally becoming "/"
 # as setting your base URL to "/" let's you to build your website for any domain as
