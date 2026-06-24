@@ -26,7 +26,7 @@ they do it as if you were supposed to do this, like, in a completely serious way
 but then, you see someone approaching you. a woman. she's in the distance, you take a look at this woman, and the way she looks,
 it doesnt look like some easy fix. you have no other option but to suffer through this.
 
-[^1]: PS: This [One Punch Man reference](https://onepunchman.fandom.com/wiki/Category:Dragon) was made by [One Larp Man](https:/anins1der.com)
+[^1]: PS: This [One Punch Man reference](https://onepunchman.fandom.com/wiki/Category:Dragon) was made by [One Larp Man](https://anins1der.com)
 
 <strong class="title">well...</strong>
 
