@@ -5,6 +5,7 @@ authors = ["RetroBloxxer", "anins1der"]
 
 [taxonomies]
 tags = ["tech"]
+categories = ["starred", "fire"]
 
 [extra]
 accent_color = "orange"
