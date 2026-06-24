@@ -38,6 +38,7 @@ this website is currently hosted on github pages but i want to buy an ACTUAL dom
   - [ ] add sveltia CMS
   - [ ] get a new PC that performs way better
   - [ ] buy a domain
+  - [ ] protect the site from shitting itself <small>fuck you github</small>
 
 </details>
 
