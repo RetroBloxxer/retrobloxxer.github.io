@@ -10,7 +10,7 @@ accent_color = "orange"
 # TL;DR: credit = sure
 i am alright with fellow tech youtubers using my footage in their own videos & projects. no need to request formal permission before using a clip - just need to credit the source.
 
-> [! CAUTION]
+> [!CAUTION]
 > if you use my footage without any attribution at all, it will NOT be tolerated. once discovered, you will receive a copyright strike on the platform that has said content (i don't have a TikTok so I can't send a strike there)
 
 # 1. protected content 
