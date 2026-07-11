@@ -22,9 +22,9 @@ this policy covers all original assets produced under the RetroBloxxer (@TheReal
 # 2. allowed use cases
 you are safe from copyright claims or strikes if your content falls under these guidelines and includes clear attribution:
 
-- commentary or reaction videos: 
-- websites: putting screenshots or short clips of my content into tutorials or similar content 
-- b-roll 
+- commentary or reaction videos: using snippets of my videos to comment or criticize on.
+- websites: putting screenshots or short clips of my content into tutorials or similar content. 
+- b-roll: using my assets as visual filler or placeholder moments for your content.
 # 3. what will strike you
 copyright strikes are reserved for instances where content is taken without giving back:
 
@@ -42,7 +42,7 @@ to ensure your content is in good standing, match your attribution layout to you
 # 5. enforcement 
 i don't have the copyright match tool yet but yea
 
-nothing here basically 
+nothing here basically until I get a instance of a successful copyright strike.
 # 6. FAQ
 ## I forgot to credit you, but I just updated it. am I safe?
 yea. as long as there is clear, visible attribution present by the time I review the platform’s copyright logs, your video is on the clear.
