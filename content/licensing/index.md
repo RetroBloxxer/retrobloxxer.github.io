@@ -50,7 +50,7 @@ yea. as long as there is clear, visible attribution present by the time I review
 ## do I need to purchase a license to use your footage for a hobby project or stream?
 as long as the content is under personal use, yea you can
 
-if you are an commercial agent or representative OR you monetize out of my content, permission is strictly required.
+if you are an commercial agent, representative OR you monetize out of your content; permission is strictly required.
 
 # note to AeroNook
 since I remade your asset, if you want me to go back to the old licensing, say less.
