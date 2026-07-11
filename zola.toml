@@ -56,7 +56,7 @@ categories = [
   { name = "archived", description = "posts that have been archived due to their age.", color = "purple", icon = "box-arrow-down" },
   { name = "starred", description = "posts that are somewhat decently written.", color = "yellow", icon = "star" },
   { name = "fire", description = "posts that did numbers compared to others.", color = "red", icon = "fire" },
-  { name = "Test", description = "Categories can be set and customized entirely from config, woo-hoo!", color = "green", icon = "feather" },
+  { name = "silly", description = "posts that are COMPLETE jokes", color = "green", icon = "smiley" },
 ]
 
 # Accent color used by Ametrine.
