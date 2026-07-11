@@ -11,7 +11,7 @@ accent_color = "orange"
 i am alright with fellow tech youtubers using my footage in their own videos & projects. no need to request formal permission before using a clip - just need to credit the source.
 
 > [!CAUTION]
-> if you use my footage without any attribution at all, it will NOT be tolerated. once discovered, you will receive a copyright strike on the platform that has said content (i don't have a TikTok so I can't send a strike there)
+> if you use my footage without any attribution at all, it will NOT be tolerated. once discovered, you will receive a copyright strike on the platform hosting the content.
 
 # 1. protected content 
 this policy covers all original assets produced under the RetroBloxxer (@TheRealRetroBloxxer) name across all official platforms. this includes:
@@ -48,9 +48,15 @@ nothing here basically until I get a instance of a successful copyright strike.
 yea. as long as there is clear, visible attribution present by the time I review the platform’s copyright logs, your video is on the clear.
 
 ## do I need to purchase a license to use your footage for a hobby project or stream?
-as long as the content is under personal use, yea you can
+as long as the content is under personal use, you can
 
-if you are an commercial agent, representative OR you monetize out of your content; permission is strictly required.
+### if you are monetizing 
+standard YouTube ad monetization for commentary videos are allowed, if attributed.
+
+a commercial license is required at direct monetization of my assets such as: 
+- using voiceovers, 
+- selling branding assets,
+- sponsors tying or related to my footage
 
 # note to AeroNook
 since I remade your asset, if you want me to go back to the old licensing, say less.
