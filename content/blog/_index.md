@@ -4,7 +4,7 @@ description = "the one space where i write, sadly.."
 sort_by = "date"
 template = "article_list.html"
 page_template = "article.html"
-paginate_by = 4
+paginate_by = 10
 generate_feeds = true
 [extra]
 no_header = true
