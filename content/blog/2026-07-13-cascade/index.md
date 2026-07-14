@@ -8,7 +8,8 @@ draft = true
 tags = ["misc"]
 
 [extra]
-accent_color = "hsl(302, 68%, 45%)
+accent_color = "hsl(302, 68%, 45%)"
+banner = "card.png"
 
 [extra.weather]
 condition = "Sunny"
