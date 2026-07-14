@@ -1,8 +1,7 @@
 +++
 title = "Cascading into Unsplash"
-description = "i don't even know :d"
+description = "UNSER!!!!!! GIMME SOME UNSPLASH!!!!!"
 authors = ["RetroBloxxer"]
-draft = true
 
 [taxonomies]
 tags = ["misc"]
