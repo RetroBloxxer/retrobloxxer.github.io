@@ -202,10 +202,10 @@ links = [
 { name = "personal", category = [
 { url = "@/about/_index.md", name = "about me", icon = "user" },
 { url = "@/tech/index.md", name = "tech collection", icon = "laptop" },
+{ url = "@/linktree/index.md", name = "linktree", icon = "address-book" },
 ] },
 
 { name = "extra", category = [
-{ url = "@/linktree/index.md", name = "linktree", icon = "address-book" },
 { url = "@/colophon/index.md", name = "colophon", icon = "question-mark" },
 { url = "https://retrobloxxer.neocities.org", name = "old website", icon = "arrow-u-up-right"  },
 ] },
@@ -240,7 +240,7 @@ show_timestamp = true
 note = "<small>all rights reserved; for licensing, [visit here.](/licensing)</small>"
 
 [[extra.footer.webrings]]
-name = "Snug Ring"
+name = "ring of snug"
 url = "https://snugnook.org/ring"
 previous = "https://snugnook.org/ring/$HOST/previous"
 next = "https://snugnook.org/ring/$HOST/next"
