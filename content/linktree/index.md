@@ -1,21 +1,22 @@
 +++
 title = "linktree"
-description = "where im existing at.."
-[extra]
-no_header = true
+description = "where im existing at."
 +++
 
-# linktree
 do you want to know where i exist at?
 
-this is the perfect page
+here's the page for it
 
+## platforms
 i exist at:
-
-- [youtube](https://youtube.com/@TheRealRetroBloxxer)
-- [discord](https://dsc.gg/retrobloxxer)
-- [bandcamp](https://retrobloxxermusic.bandcamp.com)
-- [github](https://github.com/RetroBloxxer)
+- [youtube](https://youtube.com/@TheRealRetroBloxxer) - RetroBloxxer / @TheRealRetroBloxxer
+- [discord](https://dsc.gg/retrobloxxer) - RetroBloxxer / retrobloxxer_real23
+- [bandcamp](https://retrobloxxermusic.bandcamp.com) RetroBloxxer / retrobloxxermusic
+- [github](https://github.com/RetroBloxxer) - RetroBloxxer / retrobloxxer
 
 ## feeling old-school?
-me too. contact me thru my [e-mail](mailto:retrobloxxer12@hotmail.com)
+always.
+
+contact me thru my email: retrobloxxer12@hotmail.com
+
+i'd be happy to be your email frien.
