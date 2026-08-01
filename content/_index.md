@@ -4,7 +4,7 @@ title = "RetroBloxxer"
 no_header = true
 +++
 
-{{ android-banner() }}
+{{android-banner()}}
 
 {% crt() %}
 C:\Users\retrobloxxer> winfetch
