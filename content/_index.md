@@ -3,9 +3,6 @@ title = "RetroBloxxer"
 [extra]
 no_header = true
 +++
-
-{{ android_banner() }}
-
 {% crt() %}
 C:\Users\retrobloxxer> winfetch
 
@@ -29,6 +26,8 @@ C:\Users\retrobloxxer> winfetch
                                   ``
 
 {% end %}
+
+{{ android_banner() }}
 
 # ey, im retrobloxxer
 welcome to my site where i site in the site.
