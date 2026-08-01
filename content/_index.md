@@ -27,8 +27,6 @@ C:\Users\retrobloxxer> winfetch
 
 {% end %}
 
-{{ android_banner() }}
-
 # ey, im retrobloxxer
 welcome to my site where i site in the site.
 
