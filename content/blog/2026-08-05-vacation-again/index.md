@@ -2,7 +2,7 @@
 title = "1 Month of Vacation, 1 Month of Slavery"
 description = "i love and hate the place where i went to"
 authors = ["RetroBloxxer"]
-draft = "true"
+draft = true
 
 [taxonomies]
 tags = ["misc"]
