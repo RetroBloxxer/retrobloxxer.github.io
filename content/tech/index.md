@@ -30,14 +30,18 @@ i have a really huge one, so get ready!
 ## phones and tablets
 - Samsung Galaxy S3
 - Samsung Galaxy S4
+- Samsung Galaxy S4 #2
 - Samsung Galaxy Note 5 (GIVEN AWAY!)
 - Samsung Galaxy Note 5 #2 (DISASSEMBLED, BROKEN!)
 - Samsung Galaxy J5 2016
 - Samsung Galaxy Ace-i
+- Samsung Ch@t 335
 - Samsung Galaxy S2 (HARD BRICKED!)
 - Nokia 100 (DEAD BATTERY!)
 - Nokia C2-01 (DEAD BATTERY!)
-- Samsung Ch@t 335
+- GM 8 (BROKEN!)
+- GM 5 Plus (FRP locked)
+- Asus Zenfone (BROKEN!)
 - Vestel V Tab 7205 (slop!)
 - Fluo Jazz (BROKEN!)
 
