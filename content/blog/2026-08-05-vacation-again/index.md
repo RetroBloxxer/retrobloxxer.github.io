@@ -2,11 +2,10 @@
 title = "1 Month of Vacation, 1 Month of Slavery and Hell"
 description = "i love and hate the place where i went to"
 authors = ["RetroBloxxer"]
-draft = true
 
 [taxonomies]
 tags = ["misc"]
-categories = ["starred", "fire"]
+categories = ["starred"]
 
 [extra]
 accent_color = "hsl(0, 57%, 43%)"
@@ -131,6 +130,8 @@ bc if we stop SHE YELLS AT US FOR DOING ABSOLUTELY NOTHING
 and guess what? SHE LITERALLY LIES TO OTHER PPL LIKE "he made me buy sandpaper" WHEN YOU BOUGHT THAT BC U WANTED TO
 
 im tired of this place and im not going there again
+
+<small>holy word count :sob:</small>
 
 "but you love that place too it says in the blost description" yeah bc of the sea & a store called "Nazilli Pidecisi" which tastes ABSOLUTELY SICK and appetizing
 
