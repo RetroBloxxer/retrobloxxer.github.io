@@ -34,7 +34,7 @@ i have a really huge one, so get ready!
 - Samsung Galaxy Note 5 (GIVEN AWAY!)
 - Samsung Galaxy Note 5 #2 (DISASSEMBLED, BROKEN!)
 - Samsung Galaxy J5 2016
-- Samsung Galaxy Ace-i
+- Samsung Galaxy Ace-i (GIVEN AWAY!)
 - Samsung Ch@t 335
 - Samsung Galaxy S2 (HARD BRICKED!)
 - Nokia 100 (DEAD BATTERY!)
