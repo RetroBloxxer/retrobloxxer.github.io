@@ -43,5 +43,5 @@ and here we are
 
 <small>psst, wanna view my badges? you can view them [here](https://retrobloxxer.github.io/badges)</small>
 
-{visits{}}
+{{visits{}}
 
