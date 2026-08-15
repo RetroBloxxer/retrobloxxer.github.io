@@ -22,23 +22,45 @@ this website is currently hosted on github pages but i want to buy an ACTUAL dom
 - [daudix](https://daudix.one) for Ametrine and helping me on the custom font (hes a cool person)
 - [anins1der](https://anins1der.com) for the starter template, general help & inspiration (thats why i moved to github)
 - [Neocities](https://neocities.org) for my old site
-- [Snug Nook](https://snugnook.org) everyone is cool there and its a really fun server to hang out in
-
+- [Snug Nook](https://snugnook.org) for being a server thats fire
 # to-do list
 <details>
   <summary>uhh yeah in this thing is my to-do</summary>
   
   - [ ] actively maintain this site
+  
+  - [ ] add turkish as a language option
+  
   - [ ] make MORE 88x31's
+
   - [ ] draw
+  
   - [ ] manage my discord server properly
+  
   - [X] lose my mind
-  - [ ] protect my new glasses from getting scratched
+  
+  - [X] protect my new glasses from getting scratched
+  
   - [ ] add other ppl's 88x31's
+  
   - [ ] add sveltia CMS
+  
   - [ ] get a new PC that performs way better
+  
   - [ ] buy a domain
+  
   - [ ] protect the site from shitting itself <small>fuck you github</small>
+  
+  - [ ] convince my parents to buy old tech for me
+  
+  - [ ] meificate the site (slowly)
+  
+  - [ ] move todo to a standalone page
+  
+  - [ ] make [slash pages](https://slashpages.net)
+    - [X] technically [/about](https://retrobloxxer.github.io/about) & [/colophon (this page)](https://retrobloxxer.github.io/colophon) exists
+  
+  - [X] be bored all the time
 
 </details>
 
