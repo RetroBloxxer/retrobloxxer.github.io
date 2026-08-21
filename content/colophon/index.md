@@ -20,7 +20,7 @@ this website is currently hosted on github pages but i want to buy an ACTUAL dom
 
 # huge thank you to:
 - [daudix](https://daudix.one) for Ametrine and helping me on the custom font (hes a cool person)
-- [anins1der](https://anins1der.com) for the starter template, general help & inspiration (thats why i moved to github)
+- [anins1der](https://anins1der.is-a.dev) for the starter template, general help & inspiration (thats why i moved to github)
 - [Neocities](https://neocities.org) for my old site
 - [Snug Nook](https://snugnook.org) for being a server thats fire
 # to-do list
