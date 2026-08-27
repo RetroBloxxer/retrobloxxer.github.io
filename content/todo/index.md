@@ -7,8 +7,10 @@ thingamasillys, sidequests, stuff and everything that i need to do
 # personal
   - [X] actively maintain this site
   - [ ] add turkish as a language option
-    - [ ] make .toml for turkish localization and _tr markdown files for text
+    - [ ] make .toml for turkish localization
+    - [ ] make _tr markdown files for pages
   - [ ] make MORE 88x31's
+  - [ ] rewrite site to make it look like linux and its filesystem
   - [ ] draw (yes. draw. :D)
   - [ ] manage my discord server properly
   - [X] lose my mind
@@ -19,7 +21,9 @@ thingamasillys, sidequests, stuff and everything that i need to do
     - [ ] i'd say, a desktop PC with decent specs for video editing and gaming 
   - [ ] buy a domain
   - [ ] protect the site from shitting itself <small>fuck you github</small>
-  - [ ] convince my parents to buy old tech for me
+  - [ ] get MORE old tech
+    - [ ] convince my parents to get me old tech
+      - [ ] dont get scammed (the broken S4, remember?)
   - [ ] meificate the site (nah im not doing this shit)
   - [X] move todo to a standalone page
   - [ ] make [slash pages](https://slashpages.net)
