@@ -42,6 +42,8 @@ i have a really huge one, so get ready!
 - GM 8 (BROKEN!)
 - GM 5 Plus (FRP locked)
 - Asus Zenfone (BROKEN!)
+- Redmi Note 8
+- GM ???
 - Vestel V Tab 7205 (slop!)
 - Fluo Jazz (BROKEN!)
 
