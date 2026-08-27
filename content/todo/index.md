@@ -27,5 +27,6 @@ thingamasillys, sidequests, stuff and everything that i need to do
   - [ ] meificate the site (nah im not doing this shit)
   - [X] move todo to a standalone page
   - [ ] make [slash pages](https://slashpages.net)
-    - [X] technically [/about](https://retrobloxxer.github.io/about) & [/colophon](https://retrobloxxer.github.io/colophon) exists
+    - [X] technically [/about](https://retrobloxxer.github.io/about), [/colophon](https://retrobloxxer.github.io/colophon) & [/todo (this page)](https://retrobloxxer.github.io/todo#top) exists
   - [X] be bored all the time
+  - [ ] steal more *sass*:tm: from [Daudix](https://daudix.one) & [Mambo Bro (Mambuco)](https://mambuco.dev)
