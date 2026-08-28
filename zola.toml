@@ -207,6 +207,7 @@ links = [
 
 { name = "extra", category = [
 { url = "@/colophon/index.md", name = "colophon", icon = "question-mark" },
+{ url = "@/todo/index.md", name = "to-do", icon = "list-checks" },
 { url = "https://retrobloxxer.neocities.org", name = "old website", icon = "arrow-u-up-right"  },
 ] },
 ]
