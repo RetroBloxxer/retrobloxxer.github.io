@@ -24,43 +24,8 @@ this website is currently hosted on github pages but i want to buy an ACTUAL dom
 - [Neocities](https://neocities.org) for my old site
 - [Snug Nook](https://snugnook.org) for being a server thats fire
 # to-do list
-<details>
-  <summary>uhh yeah in this thing is my to-do</summary>
-  
-  - [ ] actively maintain this site
-  
-  - [ ] add turkish as a language option
-  
-  - [ ] make MORE 88x31's
-
-  - [ ] draw
-  
-  - [ ] manage my discord server properly
-  
-  - [X] lose my mind
-  
-  - [X] protect my new glasses from getting scratched
-  
-  - [ ] add other ppl's 88x31's
-  
-  - [ ] add sveltia CMS
-  
-  - [ ] get a new PC that performs way better
-  
-  - [ ] buy a domain
-  
-  - [ ] protect the site from shitting itself <small>fuck you github</small>
-  
-  - [ ] convince my parents to buy old tech for me
-  
-  - [ ] meificate the site (slowly)
-  
-  - [ ] move todo to a standalone page
-  
-  - [ ] make [slash pages](https://slashpages.net)
-    - [X] technically [/about](https://retrobloxxer.github.io/about) & [/colophon (this page)](https://retrobloxxer.github.io/colophon) exists
-  
-  - [X] be bored all the time
+todo has moved to its own seperate page!
+you can visit it at https://retrobloxxer.github.io/todo
 
 </details>
 
