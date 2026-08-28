@@ -30,3 +30,10 @@ thingamasillys, sidequests, stuff and everything that i need to do
     - [X] technically [/about](https://retrobloxxer.github.io/about), [/colophon](https://retrobloxxer.github.io/colophon) & [/todo (this page)](https://retrobloxxer.github.io/todo#top) exists
   - [X] be bored all the time
   - [ ] steal more *sass*:tm: from [Daudix](https://daudix.one) & [Mambo Bro (Mambuco)](https://mambuco.dev)
+  - [ ] add changelog using nanolog:tm: technology
+  - [ ] make website for my discord server
+  - [ ] practice kali linux
+    - [ ] send 
+    - [ ] install kali on my toshsucker laptop
+      - [ ] get touchpad drivers for toshsucker
+  - [ ] add splash screen to website
