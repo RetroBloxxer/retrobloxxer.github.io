@@ -33,7 +33,8 @@ thingamasillys, sidequests, stuff and everything that i need to do
   - [ ] add changelog using nanolog:tm: technology
   - [ ] make website for my discord server
   - [ ] practice kali linux
-    - [ ] send 
+    - [ ] compromise copyparty + webservers running on localhost (no, im not retroskid; i wont be doing this on other peope's webservers)
     - [ ] install kali on my toshsucker laptop
       - [ ] get touchpad drivers for toshsucker
   - [ ] add splash screen to website
+  - [ ] make new banner
