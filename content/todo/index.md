@@ -37,4 +37,4 @@ thingamasillys, sidequests, stuff and everything that i need to do
     - [ ] install kali on my toshsucker laptop
       - [ ] get touchpad drivers for toshsucker
   - [ ] add splash screen to website
-  - [ ] make new banner
+  - [X] make new banner
