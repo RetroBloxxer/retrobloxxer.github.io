@@ -29,7 +29,7 @@ thingamasillys, sidequests, stuff and everything that i need to do
   - [ ] make [slash pages](https://slashpages.net)
     - [X] technically [/about](https://retrobloxxer.github.io/about), [/colophon](https://retrobloxxer.github.io/colophon) & [/todo (this page)](https://retrobloxxer.github.io/todo#top) exists
   - [X] be bored all the time
-  - [ ] steal more *sass*:tm: from [Daudix](https://daudix.one) & [Mambo Bro (Mambuco)](https://mambuco.dev)
+  - [ ] steal more *sass*:tm: from [Daudix](https://daudix.one) & [michi](https://michi.onl)
   - [ ] add changelog using nanolog:tm: technology
   - [ ] make website for my discord server
   - [ ] practice kali linux
