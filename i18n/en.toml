@@ -4,7 +4,7 @@ full_stop = "." # Used at the end of a sentence.
 
 skip_to_content = "skip the boring part"
 comments = "comments"
-read_also = "read also"
+read_also = "for reference"
 filter_tag = "filter by tag"
 filter_category = "filter by category"
 many_posts = "$NUMBER posts total"
