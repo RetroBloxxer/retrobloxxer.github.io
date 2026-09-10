@@ -195,21 +195,22 @@ icon = true
 # letters of the link name will be used instead.
 # Any icon name from https://phosphoricons.com can be used.
 links = [
-{ name = "writing", category = [
-{ url = "@/blog/_index.md", name = "blog", icon = "newspaper" },
-] },
+  { name = "writing", category = [
+    { url = "@/blog/_index.md", name = "blog", icon = "newspaper" },
+    # { url = "@/atomlog/_index.md", name = "atomlog", icon = "atom", new = true },
+  ]},
 
-{ name = "personal", category = [
-{ url = "@/about/_index.md", name = "about me", icon = "user" },
-{ url = "@/tech/index.md", name = "tech collection", icon = "laptop" },
-{ url = "@/linktree/index.md", name = "linktree", icon = "address-book" },
-] },
+  { name = "personal", category = [
+    { url = "@/about/_index.md", name = "about me", icon = "user" },
+    { url = "@/tech/index.md", name = "tech collection", icon = "laptop" },
+    { url = "@/linktree/index.md", name = "linktree", icon = "address-book" },
+  ]},
 
-{ name = "extra", category = [
-{ url = "@/colophon/index.md", name = "colophon", icon = "question-mark" },
-{ url = "@/todo/index.md", name = "to-do", icon = "list-checks" },
-{ url = "https://retrobloxxer.neocities.org", name = "old website", icon = "arrow-u-up-right"  },
-] },
+  { name = "extra", category = [
+    { url = "@/colophon/index.md", name = "colophon", icon = "question-mark" },
+    { url = "@/todo/index.md", name = "to-do", icon = "list-checks" },
+    { url = "https://retrobloxxer.neocities.org", name = "old website", icon = "arrow-u-up-right"  },
+  ]},
 ]
 
 [extra.footer]
