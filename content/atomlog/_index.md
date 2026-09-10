@@ -4,7 +4,7 @@ description = "nanolog but smaller"
 
 sort_by = "date"
 generate_feeds = true
-template = "bbs.html"
+template = "atomlog.html"
 
 extra.accent_color = "purple"
 extra.bbs.header = "# atoms"
