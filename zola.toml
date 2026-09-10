@@ -197,7 +197,7 @@ icon = true
 links = [
   { name = "writing", category = [
     { url = "@/blog/_index.md", name = "blog", icon = "newspaper" },
-    # { url = "@/atomlog/_index.md", name = "atomlog", icon = "atom", new = true },
+    { url = "@/atomlog/_index.md", name = "atomlog", icon = "atom", new = true },
   ]},
 
   { name = "personal", category = [
