@@ -15,32 +15,17 @@
   <ul class="entry-list">
     {% for page in section.pages %}
       <li>
-        <!-- <h2 class="center">{{- "Entry from " -}} {{ page.date | date(format=("%B %d, %Y")) -}}</h2>   -->
-        <!-- {{- "<small class='center'>" ~ page.title ~ "</small>" | markdown | safe -}} -->
-
-        <!-- <h2 >{{- "Entry from " -}} {{ page.date | date(format=("%B %d, %Y")) -}}</h2>   -->
-        <!-- {{- "<small>" ~ page.title ~ "</small>" | markdown | safe -}} -->
-
-        <h2>{{ page.title | markdown | safe }}</h2>  
-        <!-- <small class="center"> -->
-        <!--   <a href="{{ page.permalink ~ "#→" }}"> -->
-        <!--      {{- "Entry from " -}} {{ page.date | date(format=("%B %d, %Y")) -}} -->
-        <!--   </a> -->
-        <!-- </small> -->
+        <h2 class="center">{{ page.title | markdown | safe }}</h2>  
 
         <small class="center">
           {{- "Written on " -}} {{ page.date | date(format=("%B %d, %Y")) -}}
         </small>
         <small class="center">
-          <a href="{{ page.permalink ~ "#→" }}">Go to this entry's permalink</a>
+          <a href='{{ page.permalink ~ "#→" }}'>
+            Go to this entry's permalink
+          </a>
         </small>
 
-        <!-- <h2>{{ page.title | markdown | safe }}</h2>   -->
-        <!-- <small> {{- "Entry from " -}} {{ page.date | date(format=("%B %d, %Y")) -}}</small> -->
-        
-        <!-- <hr> -->
-
-        <!-- {{- "# " ~ page.title | markdown | safe -}} -->
         {{- page.content | markdown | safe -}}
       </li>
     {% endfor %}
