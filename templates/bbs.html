@@ -1,0 +1,53 @@
+{% extends "base.html" %}
+
+{% block content %}
+  {{- "# " ~ section.title | markdown | safe -}}
+  {{- "<small>" ~ section.description ~ "</small>" | safe -}}
+  {{- section.content | markdown | safe -}}
+
+
+  {% if section.pages %}
+    <hr>
+    {{- section.extra.bbs.header | markdown | safe -}}
+  {% endif %}
+
+  {% if section.pages %}
+  <ul class="entry-list">
+    {% for page in section.pages %}
+      <li>
+        <!-- <h2 class="center">{{- "Entry from " -}} {{ page.date | date(format=("%B %d, %Y")) -}}</h2>   -->
+        <!-- {{- "<small class='center'>" ~ page.title ~ "</small>" | markdown | safe -}} -->
+
+        <!-- <h2 >{{- "Entry from " -}} {{ page.date | date(format=("%B %d, %Y")) -}}</h2>   -->
+        <!-- {{- "<small>" ~ page.title ~ "</small>" | markdown | safe -}} -->
+
+        <h2>{{ page.title | markdown | safe }}</h2>  
+        <!-- <small class="center"> -->
+        <!--   <a href="{{ page.permalink ~ "#→" }}"> -->
+        <!--      {{- "Entry from " -}} {{ page.date | date(format=("%B %d, %Y")) -}} -->
+        <!--   </a> -->
+        <!-- </small> -->
+
+        <small class="center">
+          {{- "Written on " -}} {{ page.date | date(format=("%B %d, %Y")) -}}
+        </small>
+        <small class="center">
+          <a href="{{ page.permalink ~ "#→" }}">Go to this entry's permalink</a>
+        </small>
+
+        <!-- <h2>{{ page.title | markdown | safe }}</h2>   -->
+        <!-- <small> {{- "Entry from " -}} {{ page.date | date(format=("%B %d, %Y")) -}}</small> -->
+        
+        <!-- <hr> -->
+
+        <!-- {{- "# " ~ page.title | markdown | safe -}} -->
+        {{- page.content | markdown | safe -}}
+      </li>
+    {% endfor %}
+  </ul>
+  {% endif %}
+
+  {% if not section.pages %}
+    <p class="center">Couldn't load any entries. Add entries or check <code>/templates/bbs.html</code> for any possible errors.</p>
+  {% endif %}
+{% endblock content %}
