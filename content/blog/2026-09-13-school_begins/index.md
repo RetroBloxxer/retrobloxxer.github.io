@@ -1,6 +1,9 @@
 +++
 title = "School Is Starting"
 description = "oh no. what now?"
+authors = ["RetroBloxxer"]
+[taxonomies] 
+tags = ["misc"]
 [extra]
 accent_color = "purple"
 +++
