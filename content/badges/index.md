@@ -13,8 +13,7 @@ personal = [
   { name = "aeronook.gif", url = "https://aeronook.eu" },
   { name = "kevadesu.gif", url = "https://kevadesu.github.io" },
   { name = "zachy.gif", url = "https://zachy.cc },
-],
-]
+,]
 
 me = [
   { name = "ro.er 1.gif" },
