@@ -29,12 +29,10 @@ i have a really huge one, so get ready!
 
 ## phones and tablets
 - Samsung Galaxy S3
-- Samsung Galaxy S4
-- Samsung Galaxy S4 #2
-- Samsung Galaxy Note 5 (GIVEN AWAY!)
-- Samsung Galaxy Note 5 #2 (DISASSEMBLED, BROKEN!)
+- Samsung Galaxy S4 (PARTIALLY WORKS!)
+- Samsung Galaxy Note 5 (DISASSEMBLED, BROKEN!)
 - Samsung Galaxy J5 2016
-- Samsung Galaxy Ace-i (GIVEN AWAY!)
+- Samsung Galaxy J7 Prime
 - Samsung Ch@t 335
 - Samsung Galaxy S2 (HARD BRICKED!)
 - Nokia 100 (DEAD BATTERY!)
@@ -46,6 +44,10 @@ i have a really huge one, so get ready!
 - GM ???
 - Vestel V Tab 7205 (slop!)
 - Fluo Jazz (BROKEN!)
+### given away
+- Samsung Galaxy Note 5
+- Samsung Galaxy S4
+- Samsung Galaxy Ace-i
 
 ## cameras
 - Canon Digital IXUS 75
