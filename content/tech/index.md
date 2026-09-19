@@ -28,6 +28,7 @@ no_header = true
 i have a really huge one, so get ready!
 
 ## phones and tablets
+- Redmi Note 12 Pro (main)
 - Samsung Galaxy S3
 - Samsung Galaxy S4 (PARTIALLY WORKS!)
 - Samsung Galaxy Note 5 (DISASSEMBLED, BROKEN!)
