@@ -7,6 +7,8 @@ accent_color = "orange"
 +++
 <small>text remade, original source from [AeroNook](https://aeronook.eu/contentusage)</small>
 
+<small>old licensing at [/licensing/old](https://retrobloxxer.github.io/licensing/old)
+
 # TL;DR: credit = sure
 i am alright with fellow tech youtubers using my footage in their own videos & projects. no need to request formal permission before using a clip - just need to credit the source.
 
@@ -19,12 +21,14 @@ this policy covers all original assets produced under the RetroBloxxer (@TheReal
 - video footage (long-form video).
 - design assets and technical documentation.
 - original audio elements such as voiceovers. 
+
 # 2. allowed use cases
 you are safe from copyright claims or strikes if your content falls under these guidelines and includes clear attribution:
 
 - commentary or reaction videos: using snippets of my videos to comment or criticize on.
 - websites: putting screenshots or short clips of my content into tutorials or similar content. 
 - b-roll: using my assets as visual filler or placeholder moments for your content.
+
 # 3. what will strike you
 copyright strikes are reserved for instances where content is taken without giving back:
 
@@ -39,10 +43,12 @@ to ensure your content is in good standing, match your attribution layout to you
 | short video (TikTok, shorts, reels)| mention @TheRealRetroBloxxer clearly in the main caption, or add a brief on-screen text overlay (Footage: @TheRealRetroBloxxer). |
 | long-form video (YouTube, etc.) | place a clickable hyperlink to youtube.com/@TheRealRetroBloxxer or retrobloxxer.github.io somewhere inside your video description text. |
 | websites | include a text link directly to the asset: Footage of [RetroBloxxer](https://retrobloxxer.github.io). |
+
 # 5. enforcement 
 i don't have the copyright match tool yet but yea
 
 nothing here basically until I get a instance of a successful copyright strike.
+
 # 6. FAQ
 ## I forgot to credit you, but I just updated it. am I safe?
 yea. as long as there is clear, visible attribution present by the time I review the platform’s copyright logs, your video is on the clear.
@@ -57,8 +63,3 @@ a commercial license is required at direct monetization of my assets such as:
 - using voiceovers, 
 - selling branding assets,
 - sponsors tying or related to my footage
-
-# note to AeroNook
-since I remade your asset, if you want me to go back to the old licensing, say less.
-
-contact me thru my email or discord and I'll change the text back with no complaints.
