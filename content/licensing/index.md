@@ -7,8 +7,6 @@ accent_color = "orange"
 +++
 <small>text remade, original source from [AeroNook](https://aeronook.eu/contentusage)</small>
 
-<small>old licensing at [/licensing/old](https://retrobloxxer.github.io/licensing/old)
-
 # TL;DR: credit = sure
 i am alright with fellow tech youtubers using my footage in their own videos & projects. no need to request formal permission before using a clip - just need to credit the source.
 
