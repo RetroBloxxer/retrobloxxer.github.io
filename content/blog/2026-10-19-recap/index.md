@@ -1,7 +1,7 @@
 +++
 title= "Monthly Recap 1"
 description = "a recap of EVERYTHING that hapened"
-authors = "RetroBloxxer"
+authors = ["RetroBloxxer"]
 
 [taxonomies]
 tags = ["misc"]
