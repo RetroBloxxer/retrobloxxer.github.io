@@ -1,11 +1,15 @@
 +++
-title= "Monthly Recap 1"
-description = "a recap of EVERYTHING that hapened"
+title = "Monthly Recap 1"
+description = "everything that happened during this month"
 authors = ["RetroBloxxer"]
 
 [taxonomies]
 tags = ["misc"]
-category = ["starred"]
+categories = ["starred"]
+
+[extra]
+accent_color = "yellow"
+# banner = "card.jpg"
 +++
 
 > [!NOTE]
@@ -14,6 +18,8 @@ category = ["starred"]
 alright boys and girls its TIMMMMMMMMMMMEEEEEEEEEEEEEE for
 
 <strong>✨ MONTHLY RECAP 1!!! ✨</strong>
+
+essentially a series where i explain what happened during a month
 
 # first week
 i had a mental breakdown
