@@ -124,7 +124,7 @@ title_separator = "|"
 # Locale and timezone shit.
 date_format = "%d %B %Y"
 date_format_long = "%d %B %Y, %R (%Z)"
-date_locale = "tr_TR"
+date_locale = "en_US"
 timezone = "Europe/Istanbul"
 
 # Shows a QR code that directly jumps to your Mastodon instance, focused on comment writer.
