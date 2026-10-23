@@ -20,6 +20,16 @@ taxonomies = [
   { name = "categories", feed = true },
 ]
 
+[languages.tr]
+title = "RetroBloxxer"
+description = "13 yaşındaki bir gerizekalının sitesine bakın"
+generate_feeds = true
+
+taxonomies = [
+	{ name = "tags", feed = true, paginate_by = 5 },
+	{ name = "categories", feed = true },
+]
+
 [markdown]
 smart_punctuation = true
 bottom_footnotes = true
@@ -171,6 +181,24 @@ show_comments_qr = true
 #     ] },
 # ]
 
+[extra.tr]
+# Translations for the [extra]. Available variables are:
+# - categories
+# - date_format
+# - date_format_long
+# - date_locale
+categories = [
+	{ name = "arşivlenmiş", description = "ölmüş ve depoya saksolan yazılar", color = "purple", icon = "box-arrow-down" },
+	{ name = "öne çıkanlar", description = "(yarrak gibi) güzel yazılan yazılar", color = "yellow", icon = "star" },
+	{ name = "popüler", description = "diğerlerine göre daha fire yazılar", color = "red", icon = "fire" },
+	{ name = "test", description = "cok guzel.yemeq :D", color = "green", icon = "bowl-steam" },
+]
+
+date_format = "%d %B %Y"
+date_format_long = "%d %B %Y, %R (%Z)"
+date_locale = "tr_TR"
+
+
 [extra.meta]
 # Variables below accept either "true" or a file(nane) from /static.
 # Favicon can also accept an emoji instead of a filename.
@@ -213,6 +241,28 @@ links = [
   ]},
 ]
 
+
+[extra.nav.tr]
+# Translations for the [extra.nav]. Available variables are:
+# - links
+links = [
+ { name = "eserler", category = [
+    { url = "@/blog/_index.md", name = "blog", icon = "newspaper" },
+    { url = "@/atomlog/_index.md", name = "atomlog", icon = "atom", new = true },
+  ]},
+
+  { name = "kişisel", category = [
+    { url = "@/about/_index.md", name = "hakkımda", icon = "user" },
+    { url = "@/tech/index.md", name = "teknoloji kollection", icon = "laptop" },
+    { url = "@/linktree/index.md", name = "adres kitabı", icon = "address-book" },
+  ]},
+
+  { name = "başka şeyler", category = [
+    { url = "@/colophon/index.md", name = "site bilgisi", icon = "question-mark" },
+    { url = "@/todo/index.md", name = "yapılacaklar listesi", icon = "list-checks" },
+    { url = "https://retrobloxxer.neocities.org", name = "eski site", icon = "arrow-u-up-right"  },
+  ]},
+]
 [extra.footer]
 # Set to false to disable copyright text, or set to anything else to use it as
 # the copyright text (Markdown supported).
@@ -230,6 +280,10 @@ show_timestamp = true
 # Any icon name from https://simpleicons.org can be used.
 # socials = [{ url = "https://snugnook.org", icon = "pipecat" },]
 
+[extra.footer.tr]
+# Translations for the [extra.footer]. Available variables are: copyright
+
+copyright = "© **RetroBloxxer**, $YEAR"
 
 # List of webrings. Allowed fields:
 # - name     (required)
