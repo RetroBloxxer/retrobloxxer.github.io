@@ -191,7 +191,7 @@ categories = [
 	{ name = "arşivlenmiş", description = "ölmüş ve depoya saksolan yazılar", color = "purple", icon = "box-arrow-down" },
 	{ name = "öne çıkanlar", description = "(yarrak gibi) güzel yazılan yazılar", color = "yellow", icon = "star" },
 	{ name = "popüler", description = "diğerlerine göre daha fire yazılar", color = "red", icon = "fire" },
-	{ name = "test", description = "cok guzel.yemeq :D", color = "green", icon = "bowl-steam" },
+    { name = "şapşal", description = "vallahi ŞAKA olan yazılar", color = "green", icon = "smiley" },
 ]
 
 date_format = "%d %B %Y"
@@ -247,19 +247,19 @@ links = [
 # - links
 links = [
  { name = "eserler", category = [
-    { url = "@/blog/_index.md", name = "blog", icon = "newspaper" },
-    { url = "@/atomlog/_index.md", name = "atomlog", icon = "atom", new = true },
+    { url = "@/blog/_index.tr.md", name = "blog", icon = "newspaper" },
+    { url = "@/atomlog/_index.tr.md", name = "atomlog", icon = "atom", new = true },
   ]},
 
   { name = "kişisel", category = [
-    { url = "@/about/_index.md", name = "hakkımda", icon = "user" },
-    { url = "@/tech/index.md", name = "teknoloji kollection", icon = "laptop" },
-    { url = "@/linktree/index.md", name = "adres kitabı", icon = "address-book" },
+    { url = "@/about/_index.tr.md", name = "hakkımda", icon = "user" },
+    { url = "@/tech/index.tr.md", name = "teknoloji kollection", icon = "laptop" },
+    { url = "@/linktree/index.tr.md", name = "adres kitabı", icon = "address-book" },
   ]},
 
   { name = "başka şeyler", category = [
-    { url = "@/colophon/index.md", name = "site bilgisi", icon = "question-mark" },
-    { url = "@/todo/index.md", name = "yapılacaklar listesi", icon = "list-checks" },
+    { url = "@/colophon/index.tr.md", name = "site bilgisi", icon = "question-mark" },
+    { url = "@/todo/index.tr.md", name = "yapılacaklar listesi", icon = "list-checks" },
     { url = "https://retrobloxxer.neocities.org", name = "eski site", icon = "arrow-u-up-right"  },
   ]},
 ]
