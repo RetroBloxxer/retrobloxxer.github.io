@@ -18,7 +18,7 @@ thingamasillys, sidequests, stuff and everything that i need to do
   - [ ] add other ppl's 88x31's
   - [ ] add sveltia CMS
   - [ ] get a new PC that performs way better
-    - [ ] i'd say, a desktop PC with decent specs for video editing and gaming 
+    - i'd say, a desktop PC with decent specs for video editing and gaming 
   - [ ] buy a domain
   - [ ] protect the site from shitting itself <small>fuck you github</small>
   - [ ] get MORE old tech
@@ -30,11 +30,15 @@ thingamasillys, sidequests, stuff and everything that i need to do
     - [X] technically [/about](https://retrobloxxer.github.io/about), [/colophon](https://retrobloxxer.github.io/colophon) & [/todo (this page)](https://retrobloxxer.github.io/todo#top) exists
   - [X] be bored all the time
   - [ ] steal more *sass*:tm: from [Daudix](https://daudix.one) & [michi](https://michi.onl)
-  - [ ] add changelog using nanolog:tm: technology
+  - [X] add changelog using nanolog:tm: technology
+    - [X] oh yeah nanolog technology for other stuff too
   - [ ] make website for my discord server
+    - probably at another page like /discord or whatever
   - [ ] practice kali linux
     - [ ] compromise copyparty + webservers running on localhost (no, im not retroskid; i wont be doing this on other peope's webservers)
     - [ ] install kali on my toshsucker laptop
       - [ ] get touchpad drivers for toshsucker
   - [ ] add splash screen to website
   - [X] make new banner
+  - [ ] celebrate my birthday PEACEFULLY
+  - [X] diet coke
