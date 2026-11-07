@@ -106,8 +106,4 @@ anyway, see ya and i hope yall dont forget me :wave:
 
 - RetroBloxxer
 
-{% <alert icon="user" title="Jamer"> %}
-the amazing digital footprint
-{% </alert> %}
-
 
