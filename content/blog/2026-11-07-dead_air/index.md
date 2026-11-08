@@ -69,7 +69,9 @@ even though i have permission to look at certain apps such as:
 - WPS office
 - zoom workplace
 - app lock
-a total of 32 apps from many apps that i cant count (sadly)
+- discord
+- proton VPN (for discord)
+a total of 34 apps from many apps that i cant count (sadly)
 
 ## what about your PC?
 i dont think i have hour restrictions on that (yet)
