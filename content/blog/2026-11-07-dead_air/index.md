@@ -71,6 +71,7 @@ even though i have permission to look at certain apps such as:
 - app lock
 - discord
 - proton VPN (for discord)
+
 a total of 34 apps from many apps that i cant count (sadly)
 
 ## what about your PC?
