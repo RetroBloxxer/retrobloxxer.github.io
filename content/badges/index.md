@@ -16,7 +16,7 @@ personal = [
   { name = "kori.gif", url = "https://melankorin.net" },
   { name = "kilobyte.gif", url = "https://k1loby.github.io"},  
   { name = "vien.gif", url = "https://vuvien.xyz},    
-]
+],
 
 me = [
   { name = "ro.er 1.gif" },
