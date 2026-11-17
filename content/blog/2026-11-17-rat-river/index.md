@@ -261,7 +261,7 @@ the Beylikdüzü extension was released in 2012 with 11 stops being put.
 i'd rate this a 8/10, its literally public bus + you have your own lane so you can move thru traffic while everyone else suffers
 
 ## M8 (Metro) | Bostancı - Parseller
-{{ <image src="M8.jpg" class="no-hover"/> }}
+<image src="M8.jpg" class="no-hover"/>
 
 this metro starts from Bostancı and ends in Parseller.
 
