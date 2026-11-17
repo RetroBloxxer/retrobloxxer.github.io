@@ -4,7 +4,10 @@ description = "an exploration of the istanbul subway system (yes)"
 
 [taxonomies] 
 tags = ["misc"] 
-categories = ["silly"]
+categories = ["silly", "fire"]
+
+[extra]
+accent_color = "hsl(350, 100%, 38%)"
 +++
 
 # before we begin
@@ -26,7 +29,7 @@ there are MORE and WAYYY WAY more than you would expect
 so today, i am reviewing the map of the istanbul subway system and etc.
 
 # the map
-{{ <image src="map.jpg"/> }}
+<image src="map.jpg"/>
 
 <small>image by [Metro Istanbul](https://metro.istanbul) ([the map](https://www.metro.istanbul/YolcuHizmetleri/AgHaritalari))</small>
 
@@ -36,7 +39,7 @@ trains, metrobus tracks, trams, funiculars, suburban lines & more
 "but you'll review all of them, right?" well, just a few but still enough
 
 ## M4 (Metro) | Kadıköy - Sabiha Gökçen Havalimanı
-{{ <image src="M4.jpg" class="no-hover"/> }}
+<image src="M4.jpg" class="no-hover"/>
 
 this metro starts from Kadıköy and ends in the Sabiha Gökçen Havalimanı, one of the most popular airports in turkey.
 
@@ -74,7 +77,7 @@ The SAW extension was brought in 2022 with 4 new stations including the airport.
 i'd rate this metro a 7/10 because its smooth and its kind of the only way me and my mom can get to the airport without having to get a taxi
 
 ## B1 (Marmaray) | Halkalı - Gebze
-{{ <image src="B1.jpg" class="no-hover"/> }}
+<image src="B1.jpg" class="no-hover"/>
 
 this suburban line starts from Halkalı and ends in Gebze, essentially WRAPPING around a whole continent all the way from the europe side to the asia side.
 
@@ -132,7 +135,7 @@ the old Sirkeci - Kazlıçeşme line was restored and officially coded U3 / T6 a
 i'd rate this suburban line a 8.5/10 due to it being very unique (a HUGE number of stops) and the way we can get to the M4 and other stuff
 
 ## M5 (Metro) | Üsküdar - Sultanbeyli
-{{ <image src="M5.jpg" class="no-hover"/> }}
+<image src="M5.jpg" class="no-hover"/>
 
 this metro line is one of the most unique ones due to it being the first unattended train to ever exist in turkey.
 the line starts at Üsküdar and ends in Sultanbeyli.
@@ -173,7 +176,7 @@ the Sultanbeyli extension was released in May 22 of this year with 4 new stops b
 i'd rate this a 9/10 due to it's personal uniqueness and etc even though i havent boarded it yet
 
 ## M9 (Metro) | Ataköy - Olimpiyat
-{{ <image src="M9.jpg" class="no-hover"/> }}
+<image src="M9.jpg" class="no-hover"/>
 
 this metro line starts from Ataköy and ends in Olimpiyat.
 
@@ -201,7 +204,7 @@ the Ataköy extension was finished with 8 stops being put and one stop being bui
 i'd rate this a 6/10, nothing interesting + i havent boarded this metro before
 
 ## Metrobus | Söğutlüçeşme - Beylikdüzü Sondurak
-{{ <image src="metrobus.jpg" class="no-hover"/> }}
+<image src="metrobus.jpg" class="no-hover"/>
 
 the metrobus starts from Söğütlüçeşme and ends in Beylikdüzü Sondurak, with it crossing the 15 July Martyr's Bridge and other places.
 
