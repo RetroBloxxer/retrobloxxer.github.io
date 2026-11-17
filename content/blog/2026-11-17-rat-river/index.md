@@ -8,6 +8,7 @@ categories = ["silly", "fire"]
 
 [extra]
 accent_color = "hsl(350, 100%, 38%)"
+banner = "rat_banner.webp"
 +++
 
 # before we begin
