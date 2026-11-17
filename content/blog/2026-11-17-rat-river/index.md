@@ -27,3 +27,7 @@ there are MORE and WAYYY WAY more than you would expect
 so today, i am reviewing the map of the turkish subway system and etc.
 
 # the map
+
+<small>image by [Metro Istanbul](https://metro.istanbul) ([the map](https://www.metro.istanbul/YolcuHizmetleri/AgHaritalari))</small>
+
+as you can see here, this is the general map of the subway system
