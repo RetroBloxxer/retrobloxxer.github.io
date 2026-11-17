@@ -1,7 +1,6 @@
 +++
 title = "Rat River"
-description = "an exploration of the turkish subway system (yes)"
-draft = true
+description = "an exploration of the istanbul subway system (yes)"
 
 [taxonomies] 
 tags = ["misc"] 
@@ -24,7 +23,7 @@ and my old self may have thought: thats all stations? bad
 but NO.
 there are MORE and WAYYY WAY more than you would expect
 
-so today, i am reviewing the map of the turkish subway system and etc.
+so today, i am reviewing the map of the istanbul subway system and etc.
 
 # the map
 {{ <image src="map.jpg"/> }}
@@ -102,7 +101,7 @@ B2 (Asia):
 - Göztepe
 - Erenköy
 - Suadiye
-- Bostancı (transfer to M8)
+- Bostancı (transfer to M8, YHT and Ferries)
 - Küçükyalı
 - İdealtepe
 - Süreyya Plaji
@@ -158,7 +157,7 @@ the stops are in order:
 - Meclis
 - Sarıgazi (transfer to currently WIP M13)
 - Sancaktepe
-- Samandıra Merkez (terminal station during 2024-2026)
+- Samandıra Merkez (terminal stop during 2024-2026)
 - Sancaktepe Şehir Hastanesi
 - Veysel Karani
 - Hasanpaşa
@@ -171,6 +170,123 @@ the Çekmeköy extension was released in 2018 with 7 new stops being put.
 the Samandıra Merkez extension was released in 2024 with 4 new stops being put.
 the Sultanbeyli extension was released in May 22 of this year with 4 new stops being put.
 
-i'd rate this a 9/10 due to it's personal uniqueness and etc.
+i'd rate this a 9/10 due to it's personal uniqueness and etc even though i havent boarded it yet
 
-<h1 class="title">WORK ON THIS LATER</h1>
+## M9 (Metro) | Ataköy - Olimpiyat
+{{ <image src="M9.jpg" class="no-hover"/> }}
+
+this metro line starts from Ataköy and ends in Olimpiyat.
+
+the stops are in order:
+- Ataköy (transfer to B1)
+- Yenibosna (transfer to M1A and Metrobus)
+- Çobançeşme
+- 29 Ekim-Cumhuriyet
+- Doğu Sanayi
+- Mimar Sinan (transfer to currently WIP M1B extension)
+- 15 Temmuz
+- Halkalı Caddesi
+- Atatürk Mahallesi (transfer to currently WIP M7 extension)
+- Bahariye (starting stop during 2021-2024)
+- MASKO
+- İkitelli Sanayi (transfer to M3)
+- Ziya Gökalp Mahallesi
+- Olimpiyat (transfer to M11)
+
+the metro line was first built in 2013, with it being a branch of the M3 metro.
+construction of the Ataköy extension was started; due to financial issues, it had some delays but after the issues were solved, work was significantly faster.
+the M9 was released first in 2021 with the İkitelli - Olimpiyat line being transferred to M9 along with the MASKO stop opening.
+the Ataköy extension was finished with 8 stops being put and one stop being built later.
+
+i'd rate this a 6/10, nothing interesting + i havent boarded this metro before
+
+## Metrobus | Söğutlüçeşme - Beylikdüzü Sondurak
+{{ <image src="metrobus.jpg" class="no-hover"/> }}
+
+the metrobus starts from Söğütlüçeşme and ends in Beylikdüzü Sondurak, with it crossing the 15 July Martyr's Bridge and other places.
+
+the stops are in order:
+- Söğütlüçeşme (transfer to B1 and YHT)
+- Fikirtepe
+- Uzunçayır (transfer to M4)
+- Acıbadem
+- Altunizade (transfer to M5)
+- Burhaniye
+- 15 Temmuz Şehitler Köprüsü (not a stop but whatever)
+- Zincirlikuyu (transfer to M2 and M11) (terminal stop during 2008-2009)
+- Mecidiyeköy (transfer to M2 and M7)
+- Çağlayan (Adliye)
+- Okmeydanı Hastane
+- Darülaceze-Perpa
+- Okmeydanı
+- Halıcıoğlu
+- Ayvansaray-Eyüp Sultan (transfer to T5)
+- Edirnekapı (transfer to T4)
+- Bayrampaşa - Maltepe
+- Topkapı-Şehit Mustafa Cambaz (transfer to T1 and T4) (terminal stop during 2007-2008)
+- Cevizlibağ (transfer to T1)
+- Merter (transfer to M1A)
+- Zeytinburnu (transfer to M1A and T1)
+- İncirli-Ömür (transfer to M1A and M3)
+- Bahçelievler (transfer to M1A)
+- Şirinevler Ataköy (transfer to M1A)
+- Yenibosna (transfer to M1A and M9)
+- Sefaköy
+- Beşyol
+- Florya
+- Cennet Mahallesi
+- Küçükçekmece (transfer to B1)
+- Büyükşehir Belediyesi Sosyal Tesisleri
+- Şükrübey
+- Avcılar Merkez-Üniversite Kampüsü (terminal stop during 2007-2012)
+- Cihangir-Üniversite Mahallesi
+- Mustafa Kemalpaşa
+- Saadetdere Mahallesi
+- Haramidere Sarayı
+- Haramidere
+- Güzelyurt
+- Beylikdüzü
+- Beylikdüzü Belediye
+- Beykent
+- Beylikdüzü Sondurak (yes, this is the terminal stop)
+
+metrobus was first released in 2007 starting from Topkapı and ending in Avcılar.
+the Zincirlikuyu extension was released in 2008 with 10 stops being put.
+the Söğutlüçeşme extension was released in 2009 with 7 stops being put.
+the Beylikdüzü extension was released in 2012 with 11 stops being put.
+
+i'd rate this a 8/10, its literally public bus + you have your own lane so you can move thru traffic while everyone else suffers
+
+## M8 (Metro) | Bostancı - Parseller
+{{ <image src="M8.jpg" class="no-hover"/> }}
+
+this metro starts from Bostancı and ends in Parseller.
+
+the stops are in order:
+- Bostancı (transfer to B1, YHT and Ferries)
+- Emin Ali Paşa
+- Ayşekadın
+- Kozyatağı (transfer to M4)
+- Küçükbakkalköy
+- İçerenköy
+- Kayışdağı
+- Mevlana
+- İMES
+- MODOKO-KEYAP
+- Dudullu (transfer to M5)
+- Huzur
+- Parseller
+
+the M8 was put to tender in 2015 and given in 2016.
+construction was begun in 2016; in 2018 the construction was paused due to credit and released in 2023.
+
+i'd rate this a 5/10, nothing interesting + it pretty much sucks based on my opinion
+
+# the epilogue
+as you can see, by the map and the lines, the lines are WAY too complicated but still pretty good
+
+well, cya
+
+<small> bro i got bored SOOOO much that i just did this lmao
+
+
