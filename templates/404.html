@@ -14,8 +14,7 @@
 	below.{% endif %}</p>
 
 	<div class="buttons centered big">
-		<button class="suggested" onclick=history.back()>go back to where u were</button>
-		<a class="" href="{% include 'partials/home_url.html' %}">return home</a>
+		<a class="suggested" href="{% include 'partials/home_url.html' %}">return home</a>
 		{%- if config.extra.issues_url %}
 		<a class="external" href="{{ config.extra.issues_url }}" rel="{{ rel_attributes }}">snitch on</a>
 		{%- endif %}
