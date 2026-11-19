@@ -5,15 +5,12 @@ authors = ["RetroBloxxer"]
 
 [taxonomies]
 tags = ["misc"]
-categories = ["starred"]
+categories = ["starred", "revived"]
 
 [extra]
 accent_color = "yellow"
 # banner = "card.jpg"
 +++
-
-> [!NOTE]
-> this post was originally an atom (atomlog post) but has been moved to standard blosts due to the absolute paragraph this is
 
 alright boys and girls its TIMMMMMMMMMMMEEEEEEEEEEEEEE for
 
