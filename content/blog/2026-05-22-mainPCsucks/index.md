@@ -5,7 +5,6 @@ authors = ["RetroBloxxer"]
 
 [taxonomies]
 tags = ["tech"]
-categories = ["starred"]
 
 [extra]
 # If an image called "card.png" is found on root of
