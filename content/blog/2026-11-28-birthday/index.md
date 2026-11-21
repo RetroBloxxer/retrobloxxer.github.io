@@ -5,7 +5,7 @@ author = ["RetroBloxxer"]
 draft = true
 
 [taxonomies]
-tags = "misc"
+tags = ["misc"]
 
 [extra]
 # banner = "bday_banner.webp"
